@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Language Detection - CNN Demo</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 50px; background: #f0f2f5; }
+    form { margin-top: 20px; }
+    input[type=text] { width: 400px; padding: 10px; font-size: 16px; }
+    button { padding: 10px 20px; background: #007bff; color: white; border: none; border-radius: 6px; cursor: pointer; }
+    button:hover { background: #0056b3; }
+    .result { margin-top: 30px; font-size: 20px; }
+  </style>
+</head>
+<body>
+  <h1>🌐 CNN Language Detection</h1>
+  <form method="POST">
+    <input type="text" name="text" placeholder="Enter the sentence to be recognized..." required>
+    <button type="submit">Predict</button>
+  </form>
+
+  {% if prediction %}
+  <div class="result">
+    Language: <b>{{ prediction }}</b><br>
+    Reliability: <b>{{ "%.2f"|format(confidence) }}%</b>
+  </div>
+  {% endif %}
+</body>
+</html>

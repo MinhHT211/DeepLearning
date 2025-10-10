@@ -22,5 +22,5 @@ history = model.fit(
 loss, acc = model.evaluate(X_test, y_test)
 print(f"CNN Accuracy: {acc:.3f}")
 
-# 5. Save nodel
+# 5. Save model
 model.save("cnn_language_model.h5")

@@ -1,0 +1,38 @@
+[
+  {
+    "text": "hello",
+    "language": "portugese",
+    "confidence": 23.69,
+    "time": "2025-10-10 17:33:04"
+  },
+  {
+    "text": "phạm phương thảo",
+    "language": "vietnam",
+    "confidence": 98.67,
+    "time": "2025-10-10 17:33:15"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "language": "portugese",
+    "confidence": 30.65,
+    "time": "2025-10-10 17:34:15"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "language": "portugese",
+    "confidence": 30.65,
+    "time": "2025-10-10 17:34:18"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "language": "portugese",
+    "confidence": 30.65,
+    "time": "2025-10-10 17:35:40"
+  },
+  {
+    "text": "Bonjour, je m'appelle Marie et j'habite à Paris.",
+    "language": "dutch",
+    "confidence": 16.27,
+    "time": "2025-10-10 17:35:49"
+  }
+]

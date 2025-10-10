@@ -6,27 +6,13 @@ from tensorflow.keras.utils import to_categorical
 LANGUAGES = [
     "arabic",
     "chinese",
-    "dutch",
+    "russian",
     "english",
-    "estonian",
     "french",
     "german",
-    "hindi",
-    "indonesian",
     "japanese",
-    "korean",
-    "latin",
-    "persian",
-    "portugese",
-    "pushto",
-    "romanian",
     "russian",
     "spanish",
-    "swedish",
-    "tamil",
-    "thai",
-    "turkish",
-    "urdu",
     "vietnam"
 ]
 

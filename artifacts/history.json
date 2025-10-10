@@ -1,38 +1,74 @@
 [
   {
-    "text": "hello",
-    "language": "portugese",
-    "confidence": 23.69,
-    "time": "2025-10-10 17:33:04"
+    "text": "Hello, how are you today?",
+    "language": "english",
+    "confidence": 91.89,
+    "time": "2025-10-10 22:08:13"
   },
   {
-    "text": "phạm phương thảo",
+    "text": "thảo",
     "language": "vietnam",
-    "confidence": 98.67,
-    "time": "2025-10-10 17:33:15"
+    "confidence": 99.9,
+    "time": "2025-10-10 22:08:20"
   },
   {
-    "text": "Hello, how are you today?",
-    "language": "portugese",
-    "confidence": 30.65,
-    "time": "2025-10-10 17:34:15"
+    "text": "hello",
+    "language": "chinese",
+    "confidence": 99.94,
+    "time": "2025-10-10 22:11:12"
   },
   {
-    "text": "Hello, how are you today?",
-    "language": "portugese",
-    "confidence": 30.65,
-    "time": "2025-10-10 17:34:18"
+    "text": "hello",
+    "language": "chinese",
+    "confidence": 99.94,
+    "time": "2025-10-10 22:11:19"
   },
   {
-    "text": "Hello, how are you today?",
-    "language": "portugese",
-    "confidence": 30.65,
-    "time": "2025-10-10 17:35:40"
+    "text": "chào",
+    "language": "vietnam",
+    "confidence": 99.99,
+    "time": "2025-10-10 22:13:22"
+  },
+  {
+    "text": "chào",
+    "language": "vietnam",
+    "confidence": 99.99,
+    "time": "2025-10-10 22:13:53"
+  },
+  {
+    "text": "hello",
+    "language": "chinese",
+    "confidence": 99.94,
+    "time": "2025-10-10 22:13:56"
+  },
+  {
+    "text": "hello",
+    "language": "chinese",
+    "confidence": 99.94,
+    "time": "2025-10-10 22:14:35"
   },
   {
     "text": "Bonjour, je m'appelle Marie et j'habite à Paris.",
-    "language": "dutch",
-    "confidence": 16.27,
-    "time": "2025-10-10 17:35:49"
+    "language": "french",
+    "confidence": 80.08,
+    "time": "2025-10-10 22:14:40"
+  },
+  {
+    "text": " ещё ранее в  году в своём труде «первые основания металлургии или рудных дел» он подробно осветил различные вопросы безопасности и гигиены труда «горных людей» организации",
+    "language": "chinese",
+    "confidence": 49.33,
+    "time": "2025-10-10 22:14:58"
+  },
+  {
+    "text": "hello",
+    "language": "chinese",
+    "confidence": 99.66,
+    "time": "2025-10-10 22:30:57"
+  },
+  {
+    "text": "hello how are you",
+    "language": "english",
+    "confidence": 76.6,
+    "time": "2025-10-10 22:31:22"
   }
 ]

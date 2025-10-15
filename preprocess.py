@@ -11,6 +11,7 @@ LANGUAGES = [
     "french",
     "german",
     "japanese",
+    "korean",
     "russian",
     "spanish",
     "vietnam"

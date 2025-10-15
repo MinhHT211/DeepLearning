@@ -3,7 +3,19 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.utils import to_categorical
 
-LANGUAGES = ["english", "german", "french", "vietnam"]
+LANGUAGES = [
+    "arabic",
+    "chinese",
+    "russian",
+    "english",
+    "french",
+    "german",
+    "japanese",
+    "russian",
+    "spanish",
+    "vietnam"
+]
+
 MAX_LEN = 15
 CHARS = "abcdefghijklmnopqrstuvwxyz"
 CHAR_DICT = {c: i for i, c in enumerate(CHARS)}

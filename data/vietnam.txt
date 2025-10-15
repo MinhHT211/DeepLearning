@@ -2896,7 +2896,6 @@ Người có trí tuệ tầng bậc 4 là người có trạng thái nhận th�
 Người có trí tuệ tầng bậc 3 là người có trạng thái nhận thức nội tâm mọi sự vật, sự việc, hoàn cảnh, con người có tính không; là người luôn cảm nhận con người hay sự vật, sự việc, hiện tượng, hoàn cảnh bản chất không có vấn đề; là người luôn sống được với thực tại; là người hằng sống được với sự chân thật nơi chính mình; là người luôn biết mình đang nghe, biết mình đang thấy, biết mình đang nói, biết mình đang biết; là người có trạng thái an vui thanh tịnh nội tâm.
 Người có trí tuệ tầng bậc 2 là người có trạng thái nhận thức nội tâm cội nguồn cuộc sống bắt nguồn từ chính tôi; là người thấu hiểu và nhận thức mọi sự vật, sự việc đến từ phía chính họ, đến từ phía hạt mầm tâm trí của bản thân họ, không đến từ chính nó. Người có trí tuệ tầng bậc hai là người không mưu cầu sự thay đổi từ phía bên ngoài mà nhận thức rất rõ là cần sự thay đổi từ phía bên trong nội tâm; là người có tâm niệm mưu cầu sự thay đổi của người khác là bắt đầu cho đau khổ, thay đổi bản thân là bắt đầu cho hạnh phúc.
 Người có trí tuệ tầng bậc 1 là người có trạng thái nhận thức nội tâm phân biệt được đúng sai, thật giả, tốt xấu, nên hay không nên đối với sự vật, sự việc, hiện tượng, hoàn cảnh hay con người.
-hghghghghhhh
 Anh biết em sẽ không bao giờ yêu anh.
 Không có ai giúp đỡ chúng ta.
 Đó là điều mà bạn không bao giờ quên.
@@ -6119,9 +6118,6 @@ Anh trai tôi sống ở một ngôi làng nhỏ.
 Xin vui lòng theo thứ tự bảng chữ cái.
 Nói ngược bảng chữ cái.
 Tên được liệt kê theo thứ tự abc.
-Bảng chữ cái tiếng Slovak bao gồm 46 chữ cái: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ , ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.
-Có ba mươi ba chữ cái trong bảng chữ cái tiếng Nga: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, і, о, п, р, с, т , у, ф , х, ц, ч, ш, ч, ъ, ы, ь, э, ю, я.
-Bảng chữ cái tiếng Serbia Thượng Lusatian bao gồm 34 chữ cái: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, o, p, r, ø, s, w, t, u, w, y, z, f.
 Tôi không biết cô ấy.
 Trà pha sữa ở đâu?
 Những bông hồng này thật đẹp.

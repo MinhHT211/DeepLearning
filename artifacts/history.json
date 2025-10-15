@@ -238,5 +238,293 @@
     "language": "japanese",
     "confidence": 57.8,
     "time": "2025-10-11 23:03:02"
+  },
+  {
+    "text": "today i want to go out with my family",
+    "language": "english",
+    "confidence": 100.0,
+    "time": "2025-10-15 23:44:25"
+  },
+  {
+    "text": "오늘은 가족과 함께 외출하고 싶어요",
+    "language": "chinese",
+    "confidence": 17.95,
+    "time": "2025-10-15 23:44:37"
+  },
+  {
+    "text": "오늘은 가족과 함께 외출하고 싶어요",
+    "language": "chinese",
+    "confidence": 17.95,
+    "time": "2025-10-15 23:44:41"
+  },
+  {
+    "text": " heute möchte ich mit meiner Familie ausgehen",
+    "language": "german",
+    "confidence": 98.58,
+    "time": "2025-10-15 23:45:09"
+  },
+  {
+    "text": "aujourd'hui je veux sortir avec ma famille",
+    "language": "french",
+    "confidence": 100.0,
+    "time": "2025-10-15 23:45:23"
+  },
+  {
+    "text": "hôm nay tôi muốn đi chơi với gia đình tôi",
+    "language": "vietnam",
+    "confidence": 99.99,
+    "time": "2025-10-15 23:45:31"
+  },
+  {
+    "text": "今天我想和家人出去",
+    "language": "chinese",
+    "confidence": 17.95,
+    "time": "2025-10-15 23:45:45"
+  },
+  {
+    "text": "今天我想和家人出去",
+    "language": "chinese",
+    "confidence": 17.95,
+    "time": "2025-10-15 23:45:49"
+  },
+  {
+    "text": " 今日は家族と出かけたい",
+    "language": "chinese",
+    "confidence": 17.95,
+    "time": "2025-10-15 23:46:09"
+  },
+  {
+    "text": "اليوم أريد أن أخرج مع عائلتي",
+    "language": "chinese",
+    "confidence": 17.95,
+    "time": "2025-10-15 23:46:23"
+  },
+  {
+    "text": "сегодня я хочу выйти со своей семьей",
+    "language": "chinese",
+    "confidence": 17.95,
+    "time": "2025-10-15 23:46:35"
+  },
+  {
+    "text": "сегодня я хочу выйти со своей семьей",
+    "language": "chinese",
+    "confidence": 17.95,
+    "time": "2025-10-15 23:46:39"
+  },
+  {
+    "text": " Hoy quiero salir con mi familia",
+    "language": "spanish",
+    "confidence": 99.98,
+    "time": "2025-10-15 23:47:07"
+  },
+  {
+    "text": " 오늘은 가족과 함께 외출하고 싶어요",
+    "language": "russian",
+    "confidence": 21.9,
+    "time": "2025-10-15 23:53:08"
+  },
+  {
+    "text": "сегодня я хочу выйти со своей семьей",
+    "language": "russian",
+    "confidence": 21.9,
+    "time": "2025-10-15 23:53:26"
+  },
+  {
+    "text": " 今日は家族と出かけたい",
+    "language": "russian",
+    "confidence": 21.9,
+    "time": "2025-10-15 23:53:38"
+  },
+  {
+    "text": "اليوم أريد أن أخرج مع عائلتي",
+    "language": "russian",
+    "confidence": 21.9,
+    "time": "2025-10-15 23:53:52"
+  },
+  {
+    "text": " hoje eu quero sair com minha família",
+    "language": "portuguese",
+    "confidence": 96.57,
+    "time": "2025-10-16 00:12:42"
+  },
+  {
+    "text": "tôi",
+    "language": "vietnam",
+    "confidence": 99.61,
+    "time": "2025-10-16 00:13:27"
+  },
+  {
+    "text": "he",
+    "language": "english",
+    "confidence": 95.11,
+    "time": "2025-10-16 00:13:43"
+  },
+  {
+    "text": "me",
+    "language": "spanish",
+    "confidence": 57.69,
+    "time": "2025-10-16 00:13:47"
+  },
+  {
+    "text": "moi",
+    "language": "french",
+    "confidence": 89.7,
+    "time": "2025-10-16 00:13:51"
+  },
+  {
+    "text": "i love you",
+    "language": "english",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:13:55"
+  },
+  {
+    "text": "I love you",
+    "language": "english",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:14:21"
+  },
+  {
+    "text": "Je t'aime",
+    "language": "french",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:14:36"
+  },
+  {
+    "text": "Eu te amo",
+    "language": "portuguese",
+    "confidence": 99.87,
+    "time": "2025-10-16 00:14:51"
+  },
+  {
+    "text": "Te amo",
+    "language": "spanish",
+    "confidence": 94.54,
+    "time": "2025-10-16 00:15:01"
+  },
+  {
+    "text": "Ich liebe dich",
+    "language": "german",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:15:15"
+  },
+  {
+    "text": "tôi yêu bạn",
+    "language": "vietnam",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:15:32"
+  },
+  {
+    "text": "사랑해요",
+    "language": "korean",
+    "confidence": 99.98,
+    "time": "2025-10-16 00:28:07"
+  },
+  {
+    "text": "我爱你",
+    "language": "chinese",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:28:21"
+  },
+  {
+    "text": "Я тебя люблю",
+    "language": "russian",
+    "confidence": 55.79,
+    "time": "2025-10-16 00:28:36"
+  },
+  {
+    "text": "愛してます",
+    "language": "japanese",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:28:53"
+  },
+  {
+    "text": "愛してます",
+    "language": "japanese",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:36:32"
+  },
+  {
+    "text": "أحبك",
+    "language": "arabic",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:36:43"
+  },
+  {
+    "text": "我爱你",
+    "language": "chinese",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:36:59"
+  },
+  {
+    "text": "i love you",
+    "language": "english",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:37:07"
+  },
+  {
+    "text": "Je t'aime",
+    "language": "french",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:37:25"
+  },
+  {
+    "text": "Ich liebe dich",
+    "language": "german",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:37:41"
+  },
+  {
+    "text": "愛してます",
+    "language": "japanese",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:37:58"
+  },
+  {
+    "text": "사랑해요",
+    "language": "korean",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:38:11"
+  },
+  {
+    "text": "Eu te amo",
+    "language": "portuguese",
+    "confidence": 99.99,
+    "time": "2025-10-16 00:38:25"
+  },
+  {
+    "text": "Te amo",
+    "language": "spanish",
+    "confidence": 90.77,
+    "time": "2025-10-16 00:38:37"
+  },
+  {
+    "text": "Я тебя люблю",
+    "language": "russian",
+    "confidence": 52.89,
+    "time": "2025-10-16 00:38:54"
+  },
+  {
+    "text": "Grüße",
+    "language": "german",
+    "confidence": 100.0,
+    "time": "2025-10-16 00:39:48"
+  },
+  {
+    "text": "Я тебя люблю",
+    "language": "russian",
+    "confidence": 52.92,
+    "time": "2025-10-16 00:45:37"
+  },
+  {
+    "text": "сегодня я хочу выйти со своей семьей",
+    "language": "russian",
+    "confidence": 53.31,
+    "time": "2025-10-16 00:45:55"
+  },
+  {
+    "text": "сегодня я хочу выйти со своей семьей",
+    "language": "russian",
+    "confidence": 53.31,
+    "time": "2025-10-16 00:45:59"
   }
 ]

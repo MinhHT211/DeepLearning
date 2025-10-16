@@ -1016,7 +1016,7 @@ Có người nào đó đang chơi đàn piano.
 Hãy cho tôi xem nó hoạt động thế nào.
 Cho tôi xem nó hoạt động như thế nào đi.
 Tôi yêu Việt Nam.
-tôi yêu quê tôi => xanh xannh lũy tre
+tôi yêu quê tôi => xanh xanh lũy tre
 Cái túi này quá nặng.
 Cái túi này nặng quá.
 Đó là lý do tôi đã đi Boston.

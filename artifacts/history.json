@@ -526,5 +526,149 @@
     "language": "russian",
     "confidence": 53.31,
     "time": "2025-10-16 00:45:59"
+  },
+  {
+    "text": "today i want to eat dog meat",
+    "language": "english",
+    "confidence": 100.0,
+    "time": "2025-10-16 12:11:33"
+  },
+  {
+    "text": "اليوم أريد أن آكل لحم الكلاب",
+    "language": "arabic",
+    "confidence": 100.0,
+    "time": "2025-10-16 12:11:53"
+  },
+  {
+    "text": "اليوم أريد أن آكل لحم الكلاب ngày hôm nay tôi thích ăn thịt chó",
+    "language": "arabic",
+    "confidence": 100.0,
+    "time": "2025-10-16 12:12:10"
+  },
+  {
+    "text": "lũy tre xanh xanh",
+    "language": "english",
+    "confidence": 41.1,
+    "time": "2025-10-16 23:06:52"
+  },
+  {
+    "text": "xanh xanh",
+    "language": "vietnam",
+    "confidence": 98.07,
+    "time": "2025-10-16 23:06:59"
+  },
+  {
+    "text": "lũy tre",
+    "language": "english",
+    "confidence": 52.72,
+    "time": "2025-10-16 23:07:04"
+  },
+  {
+    "text": "lũy",
+    "language": "vietnam",
+    "confidence": 67.81,
+    "time": "2025-10-16 23:07:28"
+  },
+  {
+    "text": "tre",
+    "language": "german",
+    "confidence": 38.59,
+    "time": "2025-10-16 23:07:41"
+  },
+  {
+    "text": "lũy tre",
+    "language": "english",
+    "confidence": 52.72,
+    "time": "2025-10-16 23:07:47"
+  },
+  {
+    "text": "The city is described as a place of constant activity.",
+    "language": "english",
+    "confidence": 100.0,
+    "time": "2025-10-16 23:07:52"
+  },
+  {
+    "text": "xin hello",
+    "language": "spanish",
+    "confidence": 39.92,
+    "time": "2025-10-16 23:16:22"
+  },
+  {
+    "text": "hola",
+    "language": "spanish",
+    "confidence": 89.83,
+    "time": "2025-10-16 23:55:13"
+  },
+  {
+    "text": "adfasdsad",
+    "language": "english",
+    "confidence": 67.3,
+    "time": "2025-10-17 00:34:21"
+  },
+  {
+    "text": "ádaD",
+    "language": "spanish",
+    "confidence": 60.58,
+    "time": "2025-10-17 00:34:25"
+  },
+  {
+    "text": "àdsafa",
+    "language": "portuguese",
+    "confidence": 90.58,
+    "time": "2025-10-17 00:45:39"
+  },
+  {
+    "text": "fdasfasdf",
+    "language": "german",
+    "confidence": 84.73,
+    "time": "2025-10-17 00:47:22"
+  },
+  {
+    "text": "ádfasdf",
+    "language": "german",
+    "confidence": 41.82,
+    "time": "2025-10-17 00:48:45"
+  },
+  {
+    "text": "ádfasdf",
+    "language": "german",
+    "confidence": 41.82,
+    "time": "2025-10-17 00:48:50"
+  },
+  {
+    "text": "tôi yêu bạn",
+    "language": "vietnam",
+    "confidence": 100.0,
+    "time": "2025-10-17 00:48:57"
+  },
+  {
+    "text": "tôi yêu bạn",
+    "language": "vietnam",
+    "confidence": 100.0,
+    "time": "2025-10-17 00:51:30"
+  },
+  {
+    "text": "hẹ hẹ",
+    "language": "vietnam",
+    "confidence": 98.87,
+    "time": "2025-10-17 00:51:39"
+  },
+  {
+    "text": "i love you",
+    "language": "english",
+    "confidence": 100.0,
+    "time": "2025-10-17 00:51:46"
+  },
+  {
+    "text": "abaric",
+    "language": "english",
+    "confidence": 34.82,
+    "time": "2025-10-17 00:51:55"
+  },
+  {
+    "text": "abaric is good",
+    "language": "english",
+    "confidence": 100.0,
+    "time": "2025-10-17 00:52:05"
   }
 ]

@@ -670,5 +670,35 @@
     "language": "english",
     "confidence": 100.0,
     "time": "2025-10-17 00:52:05"
+  },
+  {
+    "text": "tôi muốn đi chơi",
+    "language": "Vietnam",
+    "confidence": 100.0,
+    "time": "2025-10-17 13:59:46"
+  },
+  {
+    "text": "i love you",
+    "language": "English",
+    "confidence": 100.0,
+    "time": "2025-10-17 13:59:53"
+  },
+  {
+    "text": "Bonjour à tous,",
+    "language": "French",
+    "confidence": 100.0,
+    "time": "2025-10-17 13:59:58"
+  },
+  {
+    "text": "Grüße",
+    "language": "German",
+    "confidence": 100.0,
+    "time": "2025-10-17 14:00:04"
+  },
+  {
+    "text": "hẹ hẹ",
+    "language": "Vietnam",
+    "confidence": 99.91,
+    "time": "2025-10-17 14:00:34"
   }
 ]

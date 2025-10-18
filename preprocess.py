@@ -14,7 +14,14 @@ LANGUAGES = [
     "Portuguese",
     "Russian",
     "Spanish",
-    "Vietnam"
+    "Vietnam",
+    "Italian",
+    "Hindi",
+    "Thai",
+    "Dutch",
+    "Turkish",
+    "Greek",
+    "Indonesian"
 ]
 
 MAX_LEN = 15
@@ -32,6 +39,13 @@ CHARS = (
     "アイウエオカキクケコサシスセソタチツテト"  
     "가나다라마바사아자차카타파하"  
     "ابتثجحخدذرزسشصضطظعغفقكلمنهويءآأؤإئةى"
+    "à, è, é, ì, ò, ù"
+    "ा, ि, ी, ु, ू, ृ, े, ै, ो, ौ, ं, ः, ँ"
+    "่, ้, ๊, ๋, ะ, า, ิ, ี, ึ, ื, ุ, ู, เ, แ, โ, ใ, ไ, ์"
+    "ë, ï, ö, ü, é, á, ó, ú, è"
+    "ç, Ç, ğ, Ğ, ı, İ, ö, Ö, ş, Ş, ü, Ü"
+    "ά, έ, ή, ί, ό, ύ, ώ, ϊ, ϋ, Ά, Έ, Ή, Ί, Ό, Ύ, Ώ, Ϊ, Ϋ"
+    "é"
 )
 CHAR_DICT = {c: i for i, c in enumerate(CHARS)}
 NUM_CLASSES = len(LANGUAGES)

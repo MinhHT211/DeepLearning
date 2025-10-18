@@ -700,5 +700,59 @@
     "language": "Vietnam",
     "confidence": 99.91,
     "time": "2025-10-17 14:00:34"
+  },
+  {
+    "text": "Så deilig!",
+    "language": "Norwegian",
+    "confidence": 99.99,
+    "time": "2025-10-18 21:23:40"
+  },
+  {
+    "text": "En mann hadde 11 sauer, men mistet 9 av dem. Hvor mange sauer hadde han igjen?",
+    "language": "Norwegian",
+    "confidence": 100.0,
+    "time": "2025-10-18 21:23:55"
+  },
+  {
+    "text": "Ti dva seděli vedle sebe.",
+    "language": "Czech",
+    "confidence": 100.0,
+    "time": "2025-10-18 22:41:46"
+  },
+  {
+    "text": "Tá Tom beagáinín níos airde ná Máire.",
+    "language": "Irish",
+    "confidence": 100.0,
+    "time": "2025-10-18 22:41:59"
+  },
+  {
+    "text": "Wéivill Stäck huet dat Gebai?",
+    "language": "Luxembourg",
+    "confidence": 99.94,
+    "time": "2025-10-18 22:42:10"
+  },
+  {
+    "text": "Det snødde da jeg våknet.",
+    "language": "Norwegian",
+    "confidence": 98.88,
+    "time": "2025-10-18 22:42:21"
+  },
+  {
+    "text": "Poți adăuga semne de punctuație la sfârșitul fiecărei propoziții?",
+    "language": "Romanian",
+    "confidence": 100.0,
+    "time": "2025-10-18 22:42:40"
+  },
+  {
+    "text": "Nastúpil som do nesprávneho autobusu.",
+    "language": "Slovak",
+    "confidence": 100.0,
+    "time": "2025-10-18 22:42:58"
+  },
+  {
+    "text": "Tom hade ingen aning om var pengarna kom ifrån.",
+    "language": "Swedish",
+    "confidence": 99.33,
+    "time": "2025-10-18 22:43:08"
   }
 ]

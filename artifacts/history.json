@@ -700,5 +700,329 @@
     "language": "Vietnam",
     "confidence": 99.91,
     "time": "2025-10-17 14:00:34"
+  },
+  {
+    "text": "โอนเงิน",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:44:56"
+  },
+  {
+    "text": "मैं और मेरा परिवार बहुत खुशी से बाजार गये।",
+    "language": "Hindi",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:45:29"
+  },
+  {
+    "text": "मैं और मेरा घर",
+    "language": "Hindi",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:48:39"
+  },
+  {
+    "text": "मेरी माँ",
+    "language": "Hindi",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:49:12"
+  },
+  {
+    "text": "Perché la città è così bella",
+    "language": "Italian",
+    "confidence": 99.98,
+    "time": "2025-10-19 12:50:11"
+  },
+  {
+    "text": "Perché la città",
+    "language": "Italian",
+    "confidence": 99.98,
+    "time": "2025-10-19 12:50:16"
+  },
+  {
+    "text": "Perché",
+    "language": "Italian",
+    "confidence": 52.79,
+    "time": "2025-10-19 12:50:21"
+  },
+  {
+    "text": "नमस्ते, आपका नाम क्या है",
+    "language": "Hindi",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:50:35"
+  },
+  {
+    "text": "क्या है",
+    "language": "Hindi",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:50:40"
+  },
+  {
+    "text": "สวัสดีครับ, นี่คือที่ไหน",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:50:56"
+  },
+  {
+    "text": "สวัสดีครับนี่คือที่ไหน",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:51:01"
+  },
+  {
+    "text": "สวัสดีค",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:51:05"
+  },
+  {
+    "text": "สวัส",
+    "language": "Chinese",
+    "confidence": 72.68,
+    "time": "2025-10-19 12:51:10"
+  },
+  {
+    "text": "Ik ga naar een café in België",
+    "language": "Dutch",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:52:00"
+  },
+  {
+    "text": "Ik ga naar",
+    "language": "Dutch",
+    "confidence": 99.97,
+    "time": "2025-10-19 12:52:03"
+  },
+  {
+    "text": "Türkçe öğrenmek",
+    "language": "Turkish",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:53:46"
+  },
+  {
+    "text": "Καλημέρα, πώς είσαι;",
+    "language": "Greek",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:53:58"
+  },
+  {
+    "text": "Καλημέρα",
+    "language": "Greek",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:54:06"
+  },
+  {
+    "text": ", πώς είσαι;",
+    "language": "Greek",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:54:08"
+  },
+  {
+    "text": "Kami duduk di téras minum kopi",
+    "language": "Indonesian",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:54:16"
+  },
+  {
+    "text": "Kami duduk di",
+    "language": "Indonesian",
+    "confidence": 99.99,
+    "time": "2025-10-19 12:54:22"
+  },
+  {
+    "text": "Kami duduk",
+    "language": "Indonesian",
+    "confidence": 99.98,
+    "time": "2025-10-19 12:54:27"
+  },
+  {
+    "text": "téras minum kopi",
+    "language": "Turkish",
+    "confidence": 45.07,
+    "time": "2025-10-19 12:54:32"
+  },
+  {
+    "text": "téras minum",
+    "language": "French",
+    "confidence": 79.71,
+    "time": "2025-10-19 12:54:48"
+  },
+  {
+    "text": "ibuku",
+    "language": "Indonesian",
+    "confidence": 99.57,
+    "time": "2025-10-19 12:55:11"
+  },
+  {
+    "text": "temanku gemuk",
+    "language": "Indonesian",
+    "confidence": 99.92,
+    "time": "2025-10-19 12:55:22"
+  },
+  {
+    "text": "minum kopi",
+    "language": "Indonesian",
+    "confidence": 81.43,
+    "time": "2025-10-19 12:55:41"
+  },
+  {
+    "text": "piknik di danau Toba.",
+    "language": "Indonesian",
+    "confidence": 92.09,
+    "time": "2025-10-19 12:57:10"
+  },
+  {
+    "text": "piknik di danau Toba",
+    "language": "Indonesian",
+    "confidence": 92.09,
+    "time": "2025-10-19 12:57:14"
+  },
+  {
+    "text": "Η Ελλάδα",
+    "language": "Greek",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:57:23"
+  },
+  {
+    "text": "Bu gömleğin",
+    "language": "Turkish",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:57:31"
+  },
+  {
+    "text": "คุณ",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:57:39"
+  },
+  {
+    "text": "ษได้ไ",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:57:48"
+  },
+  {
+    "text": "per favore",
+    "language": "Italian",
+    "confidence": 99.68,
+    "time": "2025-10-19 12:58:06"
+  },
+  {
+    "text": "Vorrei un caffè, per favore",
+    "language": "Italian",
+    "confidence": 97.93,
+    "time": "2025-10-19 12:58:12"
+  },
+  {
+    "text": "Mijn verjaardag",
+    "language": "Dutch",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:58:24"
+  },
+  {
+    "text": "นี่คือแมว",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:59:26"
+  },
+  {
+    "text": "นี่คื",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:59:37"
+  },
+  {
+    "text": "ไปไ",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:59:43"
+  },
+  {
+    "text": "อยู่",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 12:59:48"
+  },
+  {
+    "text": "อแ",
+    "language": "Thai",
+    "confidence": 99.89,
+    "time": "2025-10-19 13:00:13"
+  },
+  {
+    "text": "น่ารัก",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 13:00:37"
+  },
+  {
+    "text": "ทำไม",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 13:00:42"
+  },
+  {
+    "text": "ใช่แ",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 13:00:48"
+  },
+  {
+    "text": "ที่ไ",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 13:00:55"
+  },
+  {
+    "text": "สวัสดี",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 13:01:30"
+  },
+  {
+    "text": "สวัสด",
+    "language": "Chinese",
+    "confidence": 72.68,
+    "time": "2025-10-19 13:01:34"
+  },
+  {
+    "text": "สวัส",
+    "language": "Chinese",
+    "confidence": 72.68,
+    "time": "2025-10-19 13:01:41"
+  },
+  {
+    "text": "สวัสดี",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 13:02:19"
+  },
+  {
+    "text": "สวัสด",
+    "language": "Chinese",
+    "confidence": 72.68,
+    "time": "2025-10-19 13:02:23"
+  },
+  {
+    "text": "สวัสดี",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 13:14:23"
+  },
+  {
+    "text": "สวัสด",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 13:14:26"
+  },
+  {
+    "text": "สวัส",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 13:14:28"
+  },
+  {
+    "text": "สวั",
+    "language": "Thai",
+    "confidence": 100.0,
+    "time": "2025-10-19 13:14:30"
   }
 ]

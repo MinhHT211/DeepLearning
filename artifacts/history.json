@@ -1,242 +1,44 @@
 [
   {
-    "text": "Hello, how are you today?",
-    "language": "english",
-    "confidence": 91.89,
-    "time": "2025-10-10 22:08:13"
+    "text": "Ինչպես ես",
+    "language": "armenian",
+    "confidence": 100.0,
+    "time": "2025-10-20 01:29:02"
   },
   {
-    "text": "thảo",
-    "language": "vietnam",
-    "confidence": 99.9,
-    "time": "2025-10-10 22:08:20"
+    "text": "Qandaysiz",
+    "language": "uzbek",
+    "confidence": 98.8,
+    "time": "2025-10-20 01:29:11"
   },
   {
-    "text": "hello",
-    "language": "chinese",
-    "confidence": 99.94,
-    "time": "2025-10-10 22:11:12"
+    "text": "ඔබට කොහොම ද",
+    "language": "sinhala",
+    "confidence": 100.0,
+    "time": "2025-10-20 01:29:19"
   },
   {
-    "text": "hello",
-    "language": "chinese",
-    "confidence": 99.94,
-    "time": "2025-10-10 22:11:19"
+    "text": "Inona vaovao",
+    "language": "malagasy",
+    "confidence": 100.0,
+    "time": "2025-10-20 01:29:29"
   },
   {
-    "text": "chào",
-    "language": "vietnam",
-    "confidence": 99.99,
-    "time": "2025-10-10 22:13:22"
+    "text": "Necəsən",
+    "language": "azerbaijani",
+    "confidence": 100.0,
+    "time": "2025-10-20 01:29:37"
   },
   {
-    "text": "chào",
-    "language": "vietnam",
-    "confidence": 99.99,
-    "time": "2025-10-10 22:13:53"
+    "text": "እንደምን አለህ",
+    "language": "amharic",
+    "confidence": 100.0,
+    "time": "2025-10-20 01:29:46"
   },
   {
-    "text": "hello",
-    "language": "chinese",
-    "confidence": 99.94,
-    "time": "2025-10-10 22:13:56"
-  },
-  {
-    "text": "hello",
-    "language": "chinese",
-    "confidence": 99.94,
-    "time": "2025-10-10 22:14:35"
-  },
-  {
-    "text": "Bonjour, je m'appelle Marie et j'habite à Paris.",
-    "language": "french",
-    "confidence": 80.08,
-    "time": "2025-10-10 22:14:40"
-  },
-  {
-    "text": " ещё ранее в  году в своём труде «первые основания металлургии или рудных дел» он подробно осветил различные вопросы безопасности и гигиены труда «горных людей» организации",
-    "language": "chinese",
-    "confidence": 49.33,
-    "time": "2025-10-10 22:14:58"
-  },
-  {
-    "text": "hello",
-    "language": "chinese",
-    "confidence": 99.66,
-    "time": "2025-10-10 22:30:57"
-  },
-  {
-    "text": "hello how are you",
-    "language": "english",
-    "confidence": 76.6,
-    "time": "2025-10-10 22:31:22"
-  },
-  {
-    "text": "الضحايا ودعمه لكل التونسيين",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:43:33"
-  },
-  {
-    "text": "الهجوم وجدد عن دعم الاتحاد الأوروبي لتونس في",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:44:14"
-  },
-  {
-    "text": "在家里我有自己的房间。",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:44:23"
-  },
-  {
-    "text": "I love you",
-    "language": "russian",
-    "confidence": 34.07,
-    "time": "2025-10-11 22:44:37"
-  },
-  {
-    "text": "today i want to go out with my family",
-    "language": "english",
-    "confidence": 60.81,
-    "time": "2025-10-11 22:45:25"
-  },
-  {
-    "text": "today i want to go out with my family",
-    "language": "english",
-    "confidence": 60.81,
-    "time": "2025-10-11 22:45:32"
-  },
-  {
-    "text": "جندي اضافة لاسقاط طائرة حربية حاولت نجدة الجنود",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:47:02"
-  },
-  {
-    "text": "جندي اضافة لاسقاط طائرة حربية حاولت نجدة الجنود",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:47:06"
-  },
-  {
-    "text": "الاشتباكات عن مقتل  جندي اضافة لاسقاط طائرة حربية حاولت نجدة الجنود",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:47:15"
-  },
-  {
-    "text": "我越了解人，我就越喜歡動物。",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:47:31"
-  },
-  {
-    "text": " aujourd'hui je veux sortir avec ma famille",
-    "language": "french",
-    "confidence": 79.91,
-    "time": "2025-10-11 22:48:00"
-  },
-  {
-    "text": " heute möchte ich mit meiner Familie ausgehen",
-    "language": "german",
-    "confidence": 93.68,
-    "time": "2025-10-11 22:48:16"
-  },
-  {
-    "text": "今日は家族と出かけたい",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:48:32"
-  },
-  {
-    "text": "hoje eu quero sair com minha família",
-    "language": "spanish",
-    "confidence": 57.24,
-    "time": "2025-10-11 22:48:53"
-  },
-  {
-    "text": " сегодня я хочу выйти со своей семьей",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:49:08"
-  },
-  {
-    "text": " сегодня я хочу выйти со своей семьей",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:49:12"
-  },
-  {
-    "text": "году не дойдя ещё до богословского класса ломоносов",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:49:22"
-  },
-  {
-    "text": "chào",
-    "language": "vietnam",
-    "confidence": 92.71,
-    "time": "2025-10-11 22:49:32"
-  },
-  {
-    "text": "Hoy quiero salir con mi familia",
-    "language": "french",
-    "confidence": 41.93,
-    "time": "2025-10-11 22:49:53"
-  },
-  {
-    "text": "en navidad de  poco después de que interpretó la canción en francés",
-    "language": "spanish",
-    "confidence": 77.96,
-    "time": "2025-10-11 22:50:29"
-  },
-  {
-    "text": "en navidad de  poco después de que interpretó la canción",
-    "language": "spanish",
-    "confidence": 77.96,
-    "time": "2025-10-11 22:50:51"
-  },
-  {
-    "text": "борозда исбанир англ isbanir fossa — длинная и узкая впадина",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:51:10"
-  },
-  {
-    "text": "barocco pt escândalo de ª página é um filme francês",
-    "language": "spanish",
-    "confidence": 74.78,
-    "time": "2025-10-11 22:51:33"
-  },
-  {
-    "text": "transgressores de modo a identificar padrões de comportamento",
-    "language": "french",
-    "confidence": 67.22,
-    "time": "2025-10-11 22:51:50"
-  },
-  {
-    "text": "今日は家族と出かけたい",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:52:12"
-  },
-  {
-    "text": "今天我想和家人出去",
-    "language": "japanese",
-    "confidence": 57.8,
-    "time": "2025-10-11 23:02:26"
-  },
-  {
-    "text": "今日は家族と出かけたい",
-    "language": "japanese",
-    "confidence": 57.8,
-    "time": "2025-10-11 23:02:46"
-  },
-  {
-    "text": "اليوم أريد أن أخرج مع عائلتي",
-    "language": "japanese",
-    "confidence": 57.8,
-    "time": "2025-10-11 23:03:02"
+    "text": "Çawa yî",
+    "language": "kurdish",
+    "confidence": 100.0,
+    "time": "2025-10-20 01:29:52"
   }
 ]

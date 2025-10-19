@@ -13,11 +13,48 @@ LANGUAGES = [
     "japanese",
     "russian",
     "spanish",
-    "vietnam"
+    "vietnam",
+    "armenian",
+    "uzbek",
+    "sinhala",
+    "malagasy",
+    "azerbaijani",
+    "amharic",
+    "kurdish"
 ]
 
 MAX_LEN = 15
-CHARS = "abcdefghijklmnopqrstuvwxyz"
+
+CHARS = (
+    # --- Latin cơ bản (dùng cho Uzbek, Malagasy, Kurdish, Azerbaijani) ---
+    "abcdefghijklmnopqrstuvwxyz"
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    
+    # --- Ký tự Latin mở rộng ---
+    "çğıİöşüəʻʼ’êîû"
+    
+    # --- Armenian (Հայերեն) ---
+    "ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔևՕՖ"
+    "աբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքևօֆ"
+    
+    # --- Sinhala (සිංහල) ---
+    "අආඇඈඉඊඋඌඑඒඔඕඖඓඛගඝඞඟචඡජඣඤඥටඨඩඪණතථදධනපඵබභමයරලවශෂසහළෆ"
+    "්ාැෑිීුූෙේොෝෞෟ"
+    
+    # --- Amharic (አማርኛ) ---
+    "ሀሁሂሃሄህሆለሉሊላሌልሎመሙሚማሜምሞ"
+    "ሠሡሢሣሤሥሦረሩሪራሬርሮ"
+    "ሰሱሲሳሴስሶሸሹሺሻሼሽሾ"
+    "ቀቁቂቃቄቅቆበቡቢባቤብቦ"
+    "ነኑኒናኔንኖአኡኢኣኤእኦ"
+    "ከኩኪካኬክኮወዉዊዋዌውዎ"
+    "ዐዑዒዓዔዕዖዘዙዚዛዜዝዞ"
+    "የዩዪያዬይዮ"
+    
+    # --- Ký tự đặc biệt, dấu, punctuation ---
+    "՛՝՞՜։«»–…፡።፣፤፥፦፧ "
+)
+
 CHAR_DICT = {c: i for i, c in enumerate(CHARS)}
 NUM_CLASSES = len(LANGUAGES)
 

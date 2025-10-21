@@ -14,6 +14,15 @@ LANGUAGES = [
     "Portuguese",
     "Russian",
     "Spanish",
+    "Vietnam",
+    "Norwegian",
+    "Luxembourg",
+    "Irish",
+    "Swedish",
+    "Czech",
+    "Romanian",
+    "Slovak",
+    
     "Belarus",
     "Denmark",
     "Laos",
@@ -60,6 +69,13 @@ CHARS = (
     "абвгдеёжзийклмнопрстуфхцчшщъыьэюяӨөҮү"
 
     "ابتثجحخدذرزسشصضطظعغفقكلمنهويءآأؤإئةى"
+    "Æ Ø Å"
+    "ä é è ë ï ö ü ß ç"
+    "á é í ó ú bh ch dh fh gh mh ph sh th"
+    "Å å Ä ä Ö ö é à ü è ô"
+    "á é í ó ú ý ů č ď ě ň ř š ť ž"
+    "ă â î ș ț Ă Â Î Ș Ț"
+    "á é í ó ú ý ĺ ŕ ä ô č ď ľ ň š ť ž ch Á É Í Ó Ú Ý Ĺ Ŕ Ä Ô Č Ď Ľ Ň Š Ť Ž CH"
 
     "čćđšžČĆĐŠŽ"
 

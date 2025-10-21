@@ -25,7 +25,10 @@ LANGUAGES = [
     "Creole-Haiti",
     "Hungary",
     "Igbo",
-    "Vietnam"
+    "Vietnam",
+    "Afrikaans",
+    "Catalan",
+    "Danish"
 ]
 
 MAX_LEN = 15
@@ -72,6 +75,8 @@ CHARS = (
     "०१२३४५६७८९"
 
     "áéíóúüñÁÉÍÓÚÜÑ"
+
+    "abcdefghijklmnopqrstuvwxyzæøå"
 
 )
 CHAR_DICT = {c: i for i, c in enumerate(CHARS)}

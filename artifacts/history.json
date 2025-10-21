@@ -1048,5 +1048,89 @@
     "language": "Vietnam",
     "confidence": 99.87,
     "time": "2025-10-20 01:49:10"
+  },
+  {
+    "text": "hi",
+    "language": "Creole-Haiti",
+    "confidence": 25.67,
+    "time": "2025-10-21 15:30:09"
+  },
+  {
+    "text": "hello",
+    "language": "English",
+    "confidence": 86.96,
+    "time": "2025-10-21 15:30:18"
+  },
+  {
+    "text": "hi",
+    "language": "Creole-Haiti",
+    "confidence": 25.67,
+    "time": "2025-10-21 15:30:21"
+  },
+  {
+    "text": "Hoogte en sal val",
+    "language": "Afrikaans",
+    "confidence": 62.59,
+    "time": "2025-10-21 15:30:46"
+  },
+  {
+    "text": "steeds",
+    "language": "English",
+    "confidence": 98.35,
+    "time": "2025-10-21 15:31:02"
+  },
+  {
+    "text": "hoe goed is dit",
+    "language": "Afrikaans",
+    "confidence": 97.59,
+    "time": "2025-10-21 15:31:16"
+  },
+  {
+    "text": "No hi havia estat mai abans",
+    "language": "Catalan",
+    "confidence": 96.24,
+    "time": "2025-10-21 15:31:29"
+  },
+  {
+    "text": "El meu oncle et va fer un regal",
+    "language": "Catalan",
+    "confidence": 85.5,
+    "time": "2025-10-21 15:31:45"
+  },
+  {
+    "text": "måde",
+    "language": "Denmark",
+    "confidence": 31.8,
+    "time": "2025-10-21 15:31:59"
+  },
+  {
+    "text": "Tom har udtænkt en måde",
+    "language": "Danish",
+    "confidence": 52.46,
+    "time": "2025-10-21 15:32:13"
+  },
+  {
+    "text": "Tilbage",
+    "language": "German",
+    "confidence": 34.48,
+    "time": "2025-10-21 15:32:27"
+  },
+  {
+    "text": "xin chào",
+    "language": "Vietnam",
+    "confidence": 99.94,
+    "time": "2025-10-21 15:32:42"
+  },
+  {
+    "text": "hii",
+    "language": "Creole-Haiti",
+    "confidence": 16.6,
+    "time": "2025-10-21 15:32:48"
+  },
+  {
+    "text": "chúng tôi có 1 con mèo",
+    "language": "Vietnam",
+    "confidence": 100.0,
+    "time": "2025-10-21 15:32:57"
   }
 ]

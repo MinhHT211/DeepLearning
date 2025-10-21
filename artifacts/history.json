@@ -754,5 +754,891 @@
     "language": "Swedish",
     "confidence": 99.33,
     "time": "2025-10-18 22:43:08"
+  },
+  {
+    "text": "pomíjivosti",
+    "language": "Czech",
+    "confidence": 76.19,
+    "time": "2025-10-19 08:24:34"
+  },
+  {
+    "text": "funguje",
+    "language": "Slovak",
+    "confidence": 52.95,
+    "time": "2025-10-19 08:24:54"
+  },
+  {
+    "text": "jak funguje lidský mozek",
+    "language": "Czech",
+    "confidence": 95.29,
+    "time": "2025-10-19 08:25:09"
+  },
+  {
+    "text": "hallo",
+    "language": "German",
+    "confidence": 60.08,
+    "time": "2025-10-19 08:25:22"
+  },
+  {
+    "text": "selam",
+    "language": "Portuguese",
+    "confidence": 63.26,
+    "time": "2025-10-19 08:25:31"
+  },
+  {
+    "text": "ciao",
+    "language": "Portuguese",
+    "confidence": 79.56,
+    "time": "2025-10-19 08:25:43"
+  },
+  {
+    "text": "ciao",
+    "language": "Portuguese",
+    "confidence": 79.56,
+    "time": "2025-10-19 08:25:59"
+  },
+  {
+    "text": "salve",
+    "language": "Portuguese",
+    "confidence": 67.85,
+    "time": "2025-10-19 08:26:10"
+  },
+  {
+    "text": "hello",
+    "language": "German",
+    "confidence": 30.49,
+    "time": "2025-10-19 10:32:09"
+  },
+  {
+    "text": "hello my friend",
+    "language": "English",
+    "confidence": 99.49,
+    "time": "2025-10-19 10:32:28"
+  },
+  {
+    "text": "hi",
+    "language": "Luxembourg",
+    "confidence": 23.48,
+    "time": "2025-10-19 10:32:57"
+  },
+  {
+    "text": "yes",
+    "language": "English",
+    "confidence": 75.39,
+    "time": "2025-10-19 10:33:21"
+  },
+  {
+    "text": "no",
+    "language": "Spanish",
+    "confidence": 24.1,
+    "time": "2025-10-19 10:33:27"
+  },
+  {
+    "text": "lũy tre",
+    "language": "French",
+    "confidence": 99.57,
+    "time": "2025-10-19 10:35:21"
+  },
+  {
+    "text": "lũy tre",
+    "language": "French",
+    "confidence": 99.57,
+    "time": "2025-10-19 10:35:23"
+  },
+  {
+    "text": "lũy tre",
+    "language": "French",
+    "confidence": 99.57,
+    "time": "2025-10-19 10:35:25"
+  },
+  {
+    "text": "lũy tre xanh xanh",
+    "language": "Vietnam",
+    "confidence": 86.11,
+    "time": "2025-10-19 10:35:29"
+  },
+  {
+    "text": "lũy tre",
+    "language": "French",
+    "confidence": 99.57,
+    "time": "2025-10-19 10:36:18"
+  },
+  {
+    "text": "lũy tre",
+    "language": "French",
+    "confidence": 99.57,
+    "time": "2025-10-19 10:36:19"
+  },
+  {
+    "text": "lũy tre",
+    "language": "French",
+    "confidence": 99.57,
+    "time": "2025-10-19 10:36:21"
+  },
+  {
+    "text": "lũy tre xanh xanh",
+    "language": "Vietnam",
+    "confidence": 86.11,
+    "time": "2025-10-19 10:36:26"
+  },
+  {
+    "text": "lũy tre xanh xanh",
+    "language": "Vietnam",
+    "confidence": 86.11,
+    "time": "2025-10-19 10:36:27"
+  },
+  {
+    "text": "chào",
+    "language": "Vietnam",
+    "confidence": 100.0,
+    "time": "2025-10-19 10:36:33"
+  },
+  {
+    "text": "củ",
+    "language": "Vietnam",
+    "confidence": 100.0,
+    "time": "2025-10-19 10:36:43"
+  },
+  {
+    "text": "bonjour",
+    "language": "French",
+    "confidence": 99.44,
+    "time": "2025-10-19 10:49:20"
+  },
+  {
+    "text": "hello",
+    "language": "English",
+    "confidence": 78.91,
+    "time": "2025-10-19 10:49:25"
+  },
+  {
+    "text": "hello",
+    "language": "English",
+    "confidence": 78.91,
+    "time": "2025-10-19 10:49:59"
+  },
+  {
+    "text": "hello",
+    "language": "English",
+    "confidence": 78.91,
+    "time": "2025-10-19 10:50:01"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "time": "2025-10-19 10:50:16"
+  },
+  {
+    "text": "hi my  friend",
+    "language": "English",
+    "confidence": 89.59,
+    "time": "2025-10-19 10:51:00"
+  },
+  {
+    "text": "hi my  friends",
+    "language": "English",
+    "confidence": 89.96,
+    "time": "2025-10-19 10:51:03"
+  },
+  {
+    "text": "hi my  friends i am iron man",
+    "language": "English",
+    "confidence": 89.95,
+    "time": "2025-10-19 10:51:12"
+  },
+  {
+    "text": "I",
+    "language": "English",
+    "confidence": 42.01,
+    "time": "2025-10-19 10:51:24"
+  },
+  {
+    "text": "orange",
+    "language": "Portuguese",
+    "confidence": 50.76,
+    "time": "2025-10-19 10:51:32"
+  },
+  {
+    "text": "تم إرسال طلب إنشاء حساب لمستخدم الهوية الإلكترونية للمعالجة",
+    "language": "Arabic",
+    "confidence": 100.0,
+    "time": "2025-10-20 13:10:02"
+  },
+  {
+    "text": "xin chào",
+    "language": "Vietnam",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Vietnam": 100.0,
+      "Norwegian": 0.0,
+      "Luxembourg": 0.0,
+      "Irish": 0.0,
+      "Swedish": 0.0,
+      "Czech": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0
+    },
+    "time": "2025-10-20 13:26:58"
+  },
+  {
+    "text": "xin chào HELLO",
+    "language": "Vietnam",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Vietnam": 100.0,
+      "Norwegian": 0.0,
+      "Luxembourg": 0.0,
+      "Irish": 0.0,
+      "Swedish": 0.0,
+      "Czech": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0
+    },
+    "time": "2025-10-20 13:27:08"
+  },
+  {
+    "text": "xin chào HELLO",
+    "language": "Vietnam",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Vietnam": 100.0,
+      "Norwegian": 0.0,
+      "Luxembourg": 0.0,
+      "Irish": 0.0,
+      "Swedish": 0.0,
+      "Czech": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0
+    },
+    "time": "2025-10-20 13:29:36"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:29:56"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:33:18"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:33:52"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:40:21"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:45:05"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:46:52"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:48:54"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:50:39"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:51:13"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:51:23"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:51:47"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:52:55"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:53:31"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:54:00"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:54:27"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:54:32"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:55:04"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:57:20"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:57:24"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 13:58:55"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 14:00:33"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 14:12:07"
+  },
+  {
+    "text": "hi",
+    "language": "English",
+    "confidence": 60.48,
+    "all_confidences": {
+      "Arabic": 0.2,
+      "Chinese": 0.27,
+      "English": 60.48,
+      "French": 0.66,
+      "German": 6.92,
+      "Japanese": 0.26,
+      "Korean": 0.15,
+      "Portuguese": 2.55,
+      "Russian": 0.13,
+      "Spanish": 5.13,
+      "Vietnam": 0.57,
+      "Norwegian": 3.43,
+      "Luxembourg": 8.04,
+      "Irish": 1.33,
+      "Swedish": 2.58,
+      "Czech": 1.49,
+      "Romanian": 4.57,
+      "Slovak": 1.27
+    },
+    "time": "2025-10-20 14:14:06"
   }
 ]

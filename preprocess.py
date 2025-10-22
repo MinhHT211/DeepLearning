@@ -22,9 +22,7 @@ LANGUAGES = [
     "Nepal",
     "Swedish",
     "Croatia",
-    "Creole-Haiti",
     "Hungary",
-    "Igbo",
     "Vietnam"
 ]
 

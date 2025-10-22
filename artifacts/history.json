@@ -1048,5 +1048,431 @@
     "language": "Vietnam",
     "confidence": 99.87,
     "time": "2025-10-20 01:49:10"
+  },
+  {
+    "text": "أريد الخروج",
+    "language": "Arabic",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:05:28"
+  },
+  {
+    "text": "أحبك",
+    "language": "Arabic",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:05:38"
+  },
+  {
+    "text": "كيف حالك",
+    "language": "Arabic",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:05:46"
+  },
+  {
+    "text": "كم عمرك",
+    "language": "Arabic",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:05:51"
+  },
+  {
+    "text": "Tôi muốn đi chơi",
+    "language": "Vietnam",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:06:10"
+  },
+  {
+    "text": "Tôi yêu bạn",
+    "language": "Vietnam",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:06:18"
+  },
+  {
+    "text": "Tôi yêu bạn",
+    "language": "Vietnam",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:06:19"
+  },
+  {
+    "text": "Bạn có khỏe không",
+    "language": "Vietnam",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:06:23"
+  },
+  {
+    "text": "Bạn bao nhiêu tuổi",
+    "language": "Vietnam",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:06:28"
+  },
+  {
+    "text": "我想出去走走",
+    "language": "Chinese",
+    "confidence": 99.98,
+    "time": "2025-10-22 13:06:35"
+  },
+  {
+    "text": "我爱你",
+    "language": "Chinese",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:06:41"
+  },
+  {
+    "text": "你好吗",
+    "language": "Chinese",
+    "confidence": 99.79,
+    "time": "2025-10-22 13:06:45"
+  },
+  {
+    "text": "你多大了",
+    "language": "Chinese",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:06:50"
+  },
+  {
+    "text": "I want to go out",
+    "language": "English",
+    "confidence": 99.98,
+    "time": "2025-10-22 13:06:56"
+  },
+  {
+    "text": "How old are you",
+    "language": "English",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:07:06"
+  },
+  {
+    "text": "Je t'aime.",
+    "language": "French",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:07:12"
+  },
+  {
+    "text": "Quel âge as-tu ?",
+    "language": "French",
+    "confidence": 99.99,
+    "time": "2025-10-22 13:07:17"
+  },
+  {
+    "text": "Ich möchte ausgehen.",
+    "language": "German",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:07:22"
+  },
+  {
+    "text": "Wie alt bist du?",
+    "language": "German",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:07:26"
+  },
+  {
+    "text": "出かけたいよ",
+    "language": "Japanese",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:07:31"
+  },
+  {
+    "text": "元気？",
+    "language": "Korean",
+    "confidence": 77.19,
+    "time": "2025-10-22 13:07:37"
+  },
+  {
+    "text": "何歳？",
+    "language": "Korean",
+    "confidence": 77.19,
+    "time": "2025-10-22 13:07:43"
+  },
+  {
+    "text": "잘 지내?",
+    "language": "Korean",
+    "confidence": 77.19,
+    "time": "2025-10-22 13:07:50"
+  },
+  {
+    "text": "몇 살이야?",
+    "language": "Korean",
+    "confidence": 77.19,
+    "time": "2025-10-22 13:07:56"
+  },
+  {
+    "text": "나가고 싶어",
+    "language": "Korean",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:08:02"
+  },
+  {
+    "text": "Eu quero sair",
+    "language": "Portuguese",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:08:09"
+  },
+  {
+    "text": "Quantos anos tem?",
+    "language": "Portuguese",
+    "confidence": 97.59,
+    "time": "2025-10-22 13:08:13"
+  },
+  {
+    "text": "Eu amo-te",
+    "language": "Portuguese",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:08:18"
+  },
+  {
+    "text": "Я хочу выйти",
+    "language": "Russian",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:08:24"
+  },
+  {
+    "text": "Я люблю тебя",
+    "language": "Russian",
+    "confidence": 94.65,
+    "time": "2025-10-22 13:08:29"
+  },
+  {
+    "text": "Как дела",
+    "language": "Russian",
+    "confidence": 99.99,
+    "time": "2025-10-22 13:08:35"
+  },
+  {
+    "text": "Quiero salir",
+    "language": "Spanish",
+    "confidence": 99.99,
+    "time": "2025-10-22 13:08:40"
+  },
+  {
+    "text": "Te amo",
+    "language": "Spanish",
+    "confidence": 87.68,
+    "time": "2025-10-22 13:08:45"
+  },
+  {
+    "text": "¿Cómo estás?",
+    "language": "Spanish",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:08:49"
+  },
+  {
+    "text": "Te amo",
+    "language": "Spanish",
+    "confidence": 87.68,
+    "time": "2025-10-22 13:26:29"
+  },
+  {
+    "text": "Я хачу выйсці.",
+    "language": "Belarus",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:26:35"
+  },
+  {
+    "text": "Як справы?",
+    "language": "Belarus",
+    "confidence": 99.75,
+    "time": "2025-10-22 13:26:41"
+  },
+  {
+    "text": "Jeg vil gerne ud",
+    "language": "Denmark",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:26:48"
+  },
+  {
+    "text": "Hvor gammel er du",
+    "language": "Denmark",
+    "confidence": 99.89,
+    "time": "2025-10-22 13:26:53"
+  },
+  {
+    "text": "ເຈົ້າອາຍຸເທົ່າໃດ",
+    "language": "Laos",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:27:02"
+  },
+  {
+    "text": "saya nak keluar",
+    "language": "Malaysia",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:27:37"
+  },
+  {
+    "text": "apa khabar",
+    "language": "Malaysia",
+    "confidence": 53.14,
+    "time": "2025-10-22 13:27:43"
+  },
+  {
+    "text": "Berapa umur awak",
+    "language": "Malaysia",
+    "confidence": 98.55,
+    "time": "2025-10-22 13:27:51"
+  },
+  {
+    "text": "Би гармаар байна",
+    "language": "Mongolia",
+    "confidence": 99.99,
+    "time": "2025-10-22 13:27:56"
+  },
+  {
+    "text": "Сайн байна уу",
+    "language": "Belarus",
+    "confidence": 55.17,
+    "time": "2025-10-22 13:28:02"
+  },
+  {
+    "text": "Сайн байна уу",
+    "language": "Belarus",
+    "confidence": 55.17,
+    "time": "2025-10-22 13:28:08"
+  },
+  {
+    "text": "Та хэдэн настай вэ?",
+    "language": "Belarus",
+    "confidence": 72.26,
+    "time": "2025-10-22 13:28:13"
+  },
+  {
+    "text": "Би гармаар байна",
+    "language": "Mongolia",
+    "confidence": 99.99,
+    "time": "2025-10-22 13:28:18"
+  },
+  {
+    "text": "Би чамд хайртай",
+    "language": "Mongolia",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:28:24"
+  },
+  {
+    "text": "元気？     何歳？",
+    "language": "Korean",
+    "confidence": 77.19,
+    "time": "2025-10-22 13:28:36"
+  },
+  {
+    "text": "म बाहिर जान चाहन्छु",
+    "language": "Nepal",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:28:50"
+  },
+  {
+    "text": "तिमी कस्तो छौ",
+    "language": "Nepal",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:28:54"
+  },
+  {
+    "text": "Jag vill gå ut",
+    "language": "Swedish",
+    "confidence": 99.86,
+    "time": "2025-10-22 13:29:01"
+  },
+  {
+    "text": "Hur gammal är du?",
+    "language": "Swedish",
+    "confidence": 99.99,
+    "time": "2025-10-22 13:29:08"
+  },
+  {
+    "text": "Hur mår du?",
+    "language": "Swedish",
+    "confidence": 55.84,
+    "time": "2025-10-22 13:29:13"
+  },
+  {
+    "text": "Kako si",
+    "language": "Croatia",
+    "confidence": 99.82,
+    "time": "2025-10-22 13:29:18"
+  },
+  {
+    "text": "Volim te",
+    "language": "Croatia",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:29:22"
+  },
+  {
+    "text": "Koliko imaš godina",
+    "language": "Croatia",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:29:46"
+  },
+  {
+    "text": "Mwen vle soti",
+    "language": "Creole-Haiti",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:29:52"
+  },
+  {
+    "text": "Ki laj ou",
+    "language": "Creole-Haiti",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:29:56"
+  },
+  {
+    "text": "Ki jan ou ye",
+    "language": "Creole-Haiti",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:30:01"
+  },
+  {
+    "text": "Hány éves vagy?",
+    "language": "Hungary",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:30:06"
+  },
+  {
+    "text": "Hogy vagy?",
+    "language": "Hungary",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:30:11"
+  },
+  {
+    "text": "Afọ ole ka ịdị",
+    "language": "Igbo",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:30:16"
+  },
+  {
+    "text": "Kedu ka ị mere",
+    "language": "Igbo",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:30:20"
+  },
+  {
+    "text": "Achọrọ m ịpụ",
+    "language": "Igbo",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:30:25"
+  },
+  {
+    "text": "Чи хаанаас ирсэн бэ",
+    "language": "Russian",
+    "confidence": 50.91,
+    "time": "2025-10-22 13:48:28"
+  },
+  {
+    "text": "Би маш завгүй байна",
+    "language": "Mongolia",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:48:58"
+  },
+  {
+    "text": "Би ажиллаж байна.",
+    "language": "Mongolia",
+    "confidence": 99.9,
+    "time": "2025-10-22 13:49:24"
+  },
+  {
+    "text": "私は働いています。",
+    "language": "Japanese",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:49:41"
+  },
+  {
+    "text": "私は忙しいです",
+    "language": "Japanese",
+    "confidence": 100.0,
+    "time": "2025-10-22 13:50:02"
   }
 ]

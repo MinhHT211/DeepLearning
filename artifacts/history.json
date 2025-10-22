@@ -1,1478 +1,2612 @@
 [
   {
-    "text": "Hello, how are you today?",
-    "language": "english",
-    "confidence": 91.89,
-    "time": "2025-10-10 22:08:13"
-  },
-  {
-    "text": "thảo",
-    "language": "vietnam",
-    "confidence": 99.9,
-    "time": "2025-10-10 22:08:20"
-  },
-  {
-    "text": "hello",
-    "language": "chinese",
-    "confidence": 99.94,
-    "time": "2025-10-10 22:11:12"
-  },
-  {
-    "text": "hello",
-    "language": "chinese",
-    "confidence": 99.94,
-    "time": "2025-10-10 22:11:19"
-  },
-  {
-    "text": "chào",
-    "language": "vietnam",
-    "confidence": 99.99,
-    "time": "2025-10-10 22:13:22"
-  },
-  {
-    "text": "chào",
-    "language": "vietnam",
-    "confidence": 99.99,
-    "time": "2025-10-10 22:13:53"
-  },
-  {
-    "text": "hello",
-    "language": "chinese",
-    "confidence": 99.94,
-    "time": "2025-10-10 22:13:56"
-  },
-  {
-    "text": "hello",
-    "language": "chinese",
-    "confidence": 99.94,
-    "time": "2025-10-10 22:14:35"
-  },
-  {
-    "text": "Bonjour, je m'appelle Marie et j'habite à Paris.",
-    "language": "french",
-    "confidence": 80.08,
-    "time": "2025-10-10 22:14:40"
-  },
-  {
-    "text": " ещё ранее в  году в своём труде «первые основания металлургии или рудных дел» он подробно осветил различные вопросы безопасности и гигиены труда «горных людей» организации",
-    "language": "chinese",
-    "confidence": 49.33,
-    "time": "2025-10-10 22:14:58"
-  },
-  {
-    "text": "hello",
-    "language": "chinese",
-    "confidence": 99.66,
-    "time": "2025-10-10 22:30:57"
-  },
-  {
-    "text": "hello how are you",
-    "language": "english",
-    "confidence": 76.6,
-    "time": "2025-10-10 22:31:22"
-  },
-  {
-    "text": "الضحايا ودعمه لكل التونسيين",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:43:33"
-  },
-  {
-    "text": "الهجوم وجدد عن دعم الاتحاد الأوروبي لتونس في",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:44:14"
-  },
-  {
-    "text": "在家里我有自己的房间。",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:44:23"
-  },
-  {
-    "text": "I love you",
-    "language": "russian",
-    "confidence": 34.07,
-    "time": "2025-10-11 22:44:37"
-  },
-  {
-    "text": "today i want to go out with my family",
-    "language": "english",
-    "confidence": 60.81,
-    "time": "2025-10-11 22:45:25"
-  },
-  {
-    "text": "today i want to go out with my family",
-    "language": "english",
-    "confidence": 60.81,
-    "time": "2025-10-11 22:45:32"
-  },
-  {
-    "text": "جندي اضافة لاسقاط طائرة حربية حاولت نجدة الجنود",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:47:02"
-  },
-  {
-    "text": "جندي اضافة لاسقاط طائرة حربية حاولت نجدة الجنود",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:47:06"
-  },
-  {
-    "text": "الاشتباكات عن مقتل  جندي اضافة لاسقاط طائرة حربية حاولت نجدة الجنود",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:47:15"
-  },
-  {
-    "text": "我越了解人，我就越喜歡動物。",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:47:31"
-  },
-  {
-    "text": " aujourd'hui je veux sortir avec ma famille",
-    "language": "french",
-    "confidence": 79.91,
-    "time": "2025-10-11 22:48:00"
-  },
-  {
-    "text": " heute möchte ich mit meiner Familie ausgehen",
-    "language": "german",
-    "confidence": 93.68,
-    "time": "2025-10-11 22:48:16"
-  },
-  {
-    "text": "今日は家族と出かけたい",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:48:32"
-  },
-  {
-    "text": "hoje eu quero sair com minha família",
-    "language": "spanish",
-    "confidence": 57.24,
-    "time": "2025-10-11 22:48:53"
-  },
-  {
-    "text": " сегодня я хочу выйти со своей семьей",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:49:08"
-  },
-  {
-    "text": " сегодня я хочу выйти со своей семьей",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:49:12"
-  },
-  {
-    "text": "году не дойдя ещё до богословского класса ломоносов",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:49:22"
-  },
-  {
-    "text": "chào",
-    "language": "vietnam",
-    "confidence": 92.71,
-    "time": "2025-10-11 22:49:32"
-  },
-  {
-    "text": "Hoy quiero salir con mi familia",
-    "language": "french",
-    "confidence": 41.93,
-    "time": "2025-10-11 22:49:53"
-  },
-  {
-    "text": "en navidad de  poco después de que interpretó la canción en francés",
-    "language": "spanish",
-    "confidence": 77.96,
-    "time": "2025-10-11 22:50:29"
-  },
-  {
-    "text": "en navidad de  poco después de que interpretó la canción",
-    "language": "spanish",
-    "confidence": 77.96,
-    "time": "2025-10-11 22:50:51"
-  },
-  {
-    "text": "борозда исбанир англ isbanir fossa — длинная и узкая впадина",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:51:10"
-  },
-  {
-    "text": "barocco pt escândalo de ª página é um filme francês",
-    "language": "spanish",
-    "confidence": 74.78,
-    "time": "2025-10-11 22:51:33"
-  },
-  {
-    "text": "transgressores de modo a identificar padrões de comportamento",
-    "language": "french",
-    "confidence": 67.22,
-    "time": "2025-10-11 22:51:50"
-  },
-  {
-    "text": "今日は家族と出かけたい",
-    "language": "chinese",
-    "confidence": 49.74,
-    "time": "2025-10-11 22:52:12"
-  },
-  {
-    "text": "今天我想和家人出去",
-    "language": "japanese",
-    "confidence": 57.8,
-    "time": "2025-10-11 23:02:26"
-  },
-  {
-    "text": "今日は家族と出かけたい",
-    "language": "japanese",
-    "confidence": 57.8,
-    "time": "2025-10-11 23:02:46"
-  },
-  {
-    "text": "اليوم أريد أن أخرج مع عائلتي",
-    "language": "japanese",
-    "confidence": 57.8,
-    "time": "2025-10-11 23:03:02"
-  },
-  {
-    "text": "today i want to go out with my family",
-    "language": "english",
-    "confidence": 100.0,
-    "time": "2025-10-15 23:44:25"
-  },
-  {
-    "text": "오늘은 가족과 함께 외출하고 싶어요",
-    "language": "chinese",
-    "confidence": 17.95,
-    "time": "2025-10-15 23:44:37"
-  },
-  {
-    "text": "오늘은 가족과 함께 외출하고 싶어요",
-    "language": "chinese",
-    "confidence": 17.95,
-    "time": "2025-10-15 23:44:41"
-  },
-  {
-    "text": " heute möchte ich mit meiner Familie ausgehen",
-    "language": "german",
-    "confidence": 98.58,
-    "time": "2025-10-15 23:45:09"
-  },
-  {
-    "text": "aujourd'hui je veux sortir avec ma famille",
-    "language": "french",
-    "confidence": 100.0,
-    "time": "2025-10-15 23:45:23"
-  },
-  {
-    "text": "hôm nay tôi muốn đi chơi với gia đình tôi",
-    "language": "vietnam",
-    "confidence": 99.99,
-    "time": "2025-10-15 23:45:31"
-  },
-  {
-    "text": "今天我想和家人出去",
-    "language": "chinese",
-    "confidence": 17.95,
-    "time": "2025-10-15 23:45:45"
-  },
-  {
-    "text": "今天我想和家人出去",
-    "language": "chinese",
-    "confidence": 17.95,
-    "time": "2025-10-15 23:45:49"
-  },
-  {
-    "text": " 今日は家族と出かけたい",
-    "language": "chinese",
-    "confidence": 17.95,
-    "time": "2025-10-15 23:46:09"
-  },
-  {
-    "text": "اليوم أريد أن أخرج مع عائلتي",
-    "language": "chinese",
-    "confidence": 17.95,
-    "time": "2025-10-15 23:46:23"
-  },
-  {
-    "text": "сегодня я хочу выйти со своей семьей",
-    "language": "chinese",
-    "confidence": 17.95,
-    "time": "2025-10-15 23:46:35"
-  },
-  {
-    "text": "сегодня я хочу выйти со своей семьей",
-    "language": "chinese",
-    "confidence": 17.95,
-    "time": "2025-10-15 23:46:39"
-  },
-  {
-    "text": " Hoy quiero salir con mi familia",
-    "language": "spanish",
-    "confidence": 99.98,
-    "time": "2025-10-15 23:47:07"
-  },
-  {
-    "text": " 오늘은 가족과 함께 외출하고 싶어요",
-    "language": "russian",
-    "confidence": 21.9,
-    "time": "2025-10-15 23:53:08"
-  },
-  {
-    "text": "сегодня я хочу выйти со своей семьей",
-    "language": "russian",
-    "confidence": 21.9,
-    "time": "2025-10-15 23:53:26"
-  },
-  {
-    "text": " 今日は家族と出かけたい",
-    "language": "russian",
-    "confidence": 21.9,
-    "time": "2025-10-15 23:53:38"
-  },
-  {
-    "text": "اليوم أريد أن أخرج مع عائلتي",
-    "language": "russian",
-    "confidence": 21.9,
-    "time": "2025-10-15 23:53:52"
-  },
-  {
-    "text": " hoje eu quero sair com minha família",
-    "language": "portuguese",
-    "confidence": 96.57,
-    "time": "2025-10-16 00:12:42"
-  },
-  {
-    "text": "tôi",
-    "language": "vietnam",
-    "confidence": 99.61,
-    "time": "2025-10-16 00:13:27"
-  },
-  {
-    "text": "he",
-    "language": "english",
-    "confidence": 95.11,
-    "time": "2025-10-16 00:13:43"
-  },
-  {
-    "text": "me",
-    "language": "spanish",
-    "confidence": 57.69,
-    "time": "2025-10-16 00:13:47"
-  },
-  {
-    "text": "moi",
-    "language": "french",
-    "confidence": 89.7,
-    "time": "2025-10-16 00:13:51"
-  },
-  {
-    "text": "i love you",
-    "language": "english",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:13:55"
-  },
-  {
-    "text": "I love you",
-    "language": "english",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:14:21"
-  },
-  {
-    "text": "Je t'aime",
-    "language": "french",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:14:36"
-  },
-  {
-    "text": "Eu te amo",
-    "language": "portuguese",
-    "confidence": 99.87,
-    "time": "2025-10-16 00:14:51"
-  },
-  {
-    "text": "Te amo",
-    "language": "spanish",
-    "confidence": 94.54,
-    "time": "2025-10-16 00:15:01"
-  },
-  {
-    "text": "Ich liebe dich",
-    "language": "german",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:15:15"
-  },
-  {
-    "text": "tôi yêu bạn",
-    "language": "vietnam",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:15:32"
-  },
-  {
-    "text": "사랑해요",
-    "language": "korean",
-    "confidence": 99.98,
-    "time": "2025-10-16 00:28:07"
-  },
-  {
-    "text": "我爱你",
-    "language": "chinese",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:28:21"
-  },
-  {
-    "text": "Я тебя люблю",
-    "language": "russian",
-    "confidence": 55.79,
-    "time": "2025-10-16 00:28:36"
-  },
-  {
-    "text": "愛してます",
-    "language": "japanese",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:28:53"
-  },
-  {
-    "text": "愛してます",
-    "language": "japanese",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:36:32"
-  },
-  {
-    "text": "أحبك",
-    "language": "arabic",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:36:43"
-  },
-  {
-    "text": "我爱你",
-    "language": "chinese",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:36:59"
-  },
-  {
-    "text": "i love you",
-    "language": "english",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:37:07"
-  },
-  {
-    "text": "Je t'aime",
-    "language": "french",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:37:25"
-  },
-  {
-    "text": "Ich liebe dich",
-    "language": "german",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:37:41"
-  },
-  {
-    "text": "愛してます",
-    "language": "japanese",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:37:58"
-  },
-  {
-    "text": "사랑해요",
-    "language": "korean",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:38:11"
-  },
-  {
-    "text": "Eu te amo",
-    "language": "portuguese",
-    "confidence": 99.99,
-    "time": "2025-10-16 00:38:25"
-  },
-  {
-    "text": "Te amo",
-    "language": "spanish",
-    "confidence": 90.77,
-    "time": "2025-10-16 00:38:37"
-  },
-  {
-    "text": "Я тебя люблю",
-    "language": "russian",
-    "confidence": 52.89,
-    "time": "2025-10-16 00:38:54"
-  },
-  {
-    "text": "Grüße",
-    "language": "german",
-    "confidence": 100.0,
-    "time": "2025-10-16 00:39:48"
-  },
-  {
-    "text": "Я тебя люблю",
-    "language": "russian",
-    "confidence": 52.92,
-    "time": "2025-10-16 00:45:37"
-  },
-  {
-    "text": "сегодня я хочу выйти со своей семьей",
-    "language": "russian",
-    "confidence": 53.31,
-    "time": "2025-10-16 00:45:55"
-  },
-  {
-    "text": "сегодня я хочу выйти со своей семьей",
-    "language": "russian",
-    "confidence": 53.31,
-    "time": "2025-10-16 00:45:59"
-  },
-  {
-    "text": "today i want to eat dog meat",
-    "language": "english",
-    "confidence": 100.0,
-    "time": "2025-10-16 12:11:33"
-  },
-  {
-    "text": "اليوم أريد أن آكل لحم الكلاب",
-    "language": "arabic",
-    "confidence": 100.0,
-    "time": "2025-10-16 12:11:53"
-  },
-  {
-    "text": "اليوم أريد أن آكل لحم الكلاب ngày hôm nay tôi thích ăn thịt chó",
-    "language": "arabic",
-    "confidence": 100.0,
-    "time": "2025-10-16 12:12:10"
-  },
-  {
-    "text": "lũy tre xanh xanh",
-    "language": "english",
-    "confidence": 41.1,
-    "time": "2025-10-16 23:06:52"
-  },
-  {
-    "text": "xanh xanh",
-    "language": "vietnam",
-    "confidence": 98.07,
-    "time": "2025-10-16 23:06:59"
-  },
-  {
-    "text": "lũy tre",
-    "language": "english",
-    "confidence": 52.72,
-    "time": "2025-10-16 23:07:04"
-  },
-  {
-    "text": "lũy",
-    "language": "vietnam",
-    "confidence": 67.81,
-    "time": "2025-10-16 23:07:28"
-  },
-  {
-    "text": "tre",
-    "language": "german",
-    "confidence": 38.59,
-    "time": "2025-10-16 23:07:41"
-  },
-  {
-    "text": "lũy tre",
-    "language": "english",
-    "confidence": 52.72,
-    "time": "2025-10-16 23:07:47"
-  },
-  {
-    "text": "The city is described as a place of constant activity.",
-    "language": "english",
-    "confidence": 100.0,
-    "time": "2025-10-16 23:07:52"
-  },
-  {
-    "text": "xin hello",
-    "language": "spanish",
-    "confidence": 39.92,
-    "time": "2025-10-16 23:16:22"
-  },
-  {
-    "text": "hola",
-    "language": "spanish",
-    "confidence": 89.83,
-    "time": "2025-10-16 23:55:13"
-  },
-  {
-    "text": "adfasdsad",
-    "language": "english",
-    "confidence": 67.3,
-    "time": "2025-10-17 00:34:21"
-  },
-  {
-    "text": "ádaD",
-    "language": "spanish",
-    "confidence": 60.58,
-    "time": "2025-10-17 00:34:25"
-  },
-  {
-    "text": "àdsafa",
-    "language": "portuguese",
-    "confidence": 90.58,
-    "time": "2025-10-17 00:45:39"
-  },
-  {
-    "text": "fdasfasdf",
-    "language": "german",
-    "confidence": 84.73,
-    "time": "2025-10-17 00:47:22"
-  },
-  {
-    "text": "ádfasdf",
-    "language": "german",
-    "confidence": 41.82,
-    "time": "2025-10-17 00:48:45"
-  },
-  {
-    "text": "ádfasdf",
-    "language": "german",
-    "confidence": 41.82,
-    "time": "2025-10-17 00:48:50"
-  },
-  {
-    "text": "tôi yêu bạn",
-    "language": "vietnam",
-    "confidence": 100.0,
-    "time": "2025-10-17 00:48:57"
-  },
-  {
-    "text": "tôi yêu bạn",
-    "language": "vietnam",
-    "confidence": 100.0,
-    "time": "2025-10-17 00:51:30"
-  },
-  {
-    "text": "hẹ hẹ",
-    "language": "vietnam",
-    "confidence": 98.87,
-    "time": "2025-10-17 00:51:39"
-  },
-  {
-    "text": "i love you",
-    "language": "english",
-    "confidence": 100.0,
-    "time": "2025-10-17 00:51:46"
-  },
-  {
-    "text": "abaric",
-    "language": "english",
-    "confidence": 34.82,
-    "time": "2025-10-17 00:51:55"
-  },
-  {
-    "text": "abaric is good",
-    "language": "english",
-    "confidence": 100.0,
-    "time": "2025-10-17 00:52:05"
-  },
-  {
-    "text": "tôi muốn đi chơi",
-    "language": "Vietnam",
-    "confidence": 100.0,
-    "time": "2025-10-17 13:59:46"
-  },
-  {
-    "text": "i love you",
-    "language": "English",
-    "confidence": 100.0,
-    "time": "2025-10-17 13:59:53"
-  },
-  {
-    "text": "Bonjour à tous,",
-    "language": "French",
-    "confidence": 100.0,
-    "time": "2025-10-17 13:59:58"
-  },
-  {
-    "text": "Grüße",
-    "language": "German",
-    "confidence": 100.0,
-    "time": "2025-10-17 14:00:04"
-  },
-  {
-    "text": "hẹ hẹ",
-    "language": "Vietnam",
-    "confidence": 99.91,
-    "time": "2025-10-17 14:00:34"
-  },
-  {
-    "text": "Я цябе кахаю",
-    "language": "Belarus",
-    "confidence": 100.0,
-    "time": "2025-10-19 20:11:55"
-  },
-  {
-    "text": "أحبك",
-    "language": "Arabic",
-    "confidence": 67.71,
-    "time": "2025-10-19 20:12:39"
-  },
-  {
-    "text": "tôi yêu bạn",
-    "language": "Vietnam",
-    "confidence": 100.0,
-    "time": "2025-10-20 00:50:25"
-  },
-  {
-    "text": "أحبك",
-    "language": "Arabic",
-    "confidence": 100.0,
-    "time": "2025-10-20 00:50:40"
-  },
-  {
-    "text": "кахаю цябе",
-    "language": "Belarus",
-    "confidence": 99.98,
-    "time": "2025-10-20 00:51:18"
-  },
-  {
-    "text": "我爱你",
-    "language": "Chinese",
-    "confidence": 100.0,
-    "time": "2025-10-20 00:51:34"
-  },
-  {
-    "text": "Mwen renmen ou",
-    "language": "Creole-Haiti",
-    "confidence": 100.0,
-    "time": "2025-10-20 00:51:49"
-  },
-  {
-    "text": "volim te",
-    "language": "Croatia",
-    "confidence": 92.53,
-    "time": "2025-10-20 00:52:12"
-  },
-  {
-    "text": "volim te",
-    "language": "Croatia",
-    "confidence": 92.53,
-    "time": "2025-10-20 00:52:15"
-  },
-  {
-    "text": "Jeg elsker dig",
-    "language": "Denmark",
-    "confidence": 100.0,
-    "time": "2025-10-20 00:52:33"
-  },
-  {
-    "text": "Je t'aime",
-    "language": "French",
-    "confidence": 100.0,
-    "time": "2025-10-20 00:52:49"
-  },
-  {
-    "text": "i love you",
-    "language": "English",
-    "confidence": 100.0,
-    "time": "2025-10-20 00:52:54"
-  },
-  {
-    "text": "Ich liebe dich",
-    "language": "German",
-    "confidence": 100.0,
-    "time": "2025-10-20 00:53:09"
-  },
-  {
-    "text": "szeretlek",
-    "language": "Hungary",
-    "confidence": 92.99,
-    "time": "2025-10-20 00:53:27"
-  },
-  {
-    "text": "a hụrụ m gị n'anya",
-    "language": "Igbo",
-    "confidence": 100.0,
-    "time": "2025-10-20 00:53:40"
-  },
-  {
-    "text": "愛してます",
-    "language": "Japanese",
-    "confidence": 100.0,
-    "time": "2025-10-20 00:53:53"
-  },
-  {
-    "text": "사랑해요",
-    "language": "Korean",
-    "confidence": 99.99,
-    "time": "2025-10-20 00:54:04"
-  },
-  {
-    "text": "ຂ້ອຍຮັກເຈົ້າ",
-    "language": "Laos",
-    "confidence": 100.0,
-    "time": "2025-10-20 00:54:17"
-  },
-  {
-    "text": "saya sayang awak",
-    "language": "Malaysia",
-    "confidence": 100.0,
-    "time": "2025-10-20 00:54:32"
-  },
-  {
-    "text": "Би чамд хайртай",
-    "language": "Mongolia",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:02:13"
-  },
-  {
-    "text": "म तिमीलाई माया गर्छु",
-    "language": "Korean",
-    "confidence": 47.77,
-    "time": "2025-10-20 01:14:04"
-  },
-  {
-    "text": "Eu te amo",
-    "language": "Portuguese",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:14:27"
-  },
-  {
-    "text": "Я тебя люблю",
-    "language": "Russian",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:14:42"
-  },
-  {
-    "text": "Te amo",
-    "language": "Spanish",
-    "confidence": 52.31,
-    "time": "2025-10-20 01:14:56"
-  },
-  {
-    "text": "Te amo",
-    "language": "Spanish",
-    "confidence": 52.31,
-    "time": "2025-10-20 01:14:59"
-  },
-  {
-    "text": "Jag älskar dig",
-    "language": "Swedish",
-    "confidence": 90.65,
-    "time": "2025-10-20 01:15:18"
-  },
-  {
-    "text": "anh yêu em",
-    "language": "Vietnam",
-    "confidence": 74.83,
-    "time": "2025-10-20 01:15:29"
-  },
-  {
-    "text": "म तिमीलाई माया गर्छु",
-    "language": "Nepal",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:32:39"
-  },
-  {
-    "text": "Te amo",
-    "language": "Spanish",
-    "confidence": 74.21,
-    "time": "2025-10-20 01:35:05"
-  },
-  {
-    "text": "Te quiero muchísimo",
-    "language": "Spanish",
-    "confidence": 99.99,
-    "time": "2025-10-20 01:35:18"
-  },
-  {
-    "text": "أحبك",
-    "language": "Arabic",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:42:45"
-  },
-  {
-    "text": "кахаю цябе",
-    "language": "Belarus",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:42:58"
-  },
-  {
-    "text": "我爱你",
-    "language": "Chinese",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:43:32"
-  },
-  {
-    "text": "Mwen renmen ou",
-    "language": "Creole-Haiti",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:43:44"
-  },
-  {
-    "text": "volim te",
-    "language": "Croatia",
-    "confidence": 98.5,
-    "time": "2025-10-20 01:43:59"
-  },
-  {
-    "text": "Jeg elsker dig",
-    "language": "Denmark",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:44:15"
-  },
-  {
-    "text": "Je t'aime",
-    "language": "French",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:44:35"
-  },
-  {
-    "text": "i love you",
-    "language": "English",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:44:43"
-  },
-  {
-    "text": "anh yêu em",
-    "language": "Vietnam",
-    "confidence": 99.87,
-    "time": "2025-10-20 01:44:47"
-  },
-  {
-    "text": "Ich liebe dich",
-    "language": "German",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:45:09"
-  },
-  {
-    "text": "szeretlek",
-    "language": "Hungary",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:45:22"
-  },
-  {
-    "text": "a hụrụ m gị n'anya",
-    "language": "Igbo",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:45:39"
-  },
-  {
-    "text": "愛してます",
-    "language": "Japanese",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:45:52"
-  },
-  {
-    "text": "사랑해요",
-    "language": "Korean",
-    "confidence": 99.99,
-    "time": "2025-10-20 01:46:06"
-  },
-  {
-    "text": "ຂ້ອຍຮັກເຈົ້າ",
-    "language": "Laos",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:46:18"
-  },
-  {
-    "text": "saya sayang awak",
-    "language": "Malaysia",
-    "confidence": 99.99,
-    "time": "2025-10-20 01:46:38"
-  },
-  {
-    "text": "Би чамд хайртай",
-    "language": "Mongolia",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:46:52"
-  },
-  {
-    "text": "म तिमीलाई माया गर्छु",
-    "language": "Nepal",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:47:13"
-  },
-  {
-    "text": "Eu te amo",
-    "language": "Portuguese",
-    "confidence": 93.15,
-    "time": "2025-10-20 01:47:25"
-  },
-  {
-    "text": "Eu amo-te",
-    "language": "Portuguese",
-    "confidence": 97.23,
-    "time": "2025-10-20 01:47:41"
-  },
-  {
-    "text": "Eu te amo",
-    "language": "Portuguese",
-    "confidence": 93.15,
-    "time": "2025-10-20 01:47:55"
-  },
-  {
-    "text": "Я тебя люблю",
-    "language": "Russian",
-    "confidence": 99.82,
-    "time": "2025-10-20 01:48:07"
-  },
-  {
-    "text": "Te amo",
-    "language": "Spanish",
-    "confidence": 74.21,
-    "time": "2025-10-20 01:48:19"
-  },
-  {
-    "text": "Te amo",
-    "language": "Spanish",
-    "confidence": 74.21,
-    "time": "2025-10-20 01:48:21"
-  },
-  {
-    "text": "Te amo",
-    "language": "Spanish",
-    "confidence": 74.21,
-    "time": "2025-10-20 01:48:22"
-  },
-  {
-    "text": "Jag älskar dig",
-    "language": "Swedish",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:48:41"
-  },
-  {
-    "text": "Jag älskar dig",
-    "language": "Swedish",
-    "confidence": 100.0,
-    "time": "2025-10-20 01:49:02"
-  },
-  {
-    "text": "anh yêu em",
-    "language": "Vietnam",
-    "confidence": 99.87,
-    "time": "2025-10-20 01:49:10"
-  },
-  {
     "text": "أريد الخروج",
     "language": "Arabic",
     "confidence": 100.0,
-    "time": "2025-10-22 13:05:28"
+    "all_confidences": {
+      "Arabic": 100.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:13:23"
   },
   {
     "text": "أحبك",
     "language": "Arabic",
     "confidence": 100.0,
-    "time": "2025-10-22 13:05:38"
+    "all_confidences": {
+      "Arabic": 100.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:13:37"
   },
   {
     "text": "كيف حالك",
     "language": "Arabic",
     "confidence": 100.0,
-    "time": "2025-10-22 13:05:46"
+    "all_confidences": {
+      "Arabic": 100.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:13:43"
   },
   {
     "text": "كم عمرك",
     "language": "Arabic",
     "confidence": 100.0,
-    "time": "2025-10-22 13:05:51"
+    "all_confidences": {
+      "Arabic": 100.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:13:48"
   },
   {
     "text": "Tôi muốn đi chơi",
     "language": "Vietnam",
     "confidence": 100.0,
-    "time": "2025-10-22 13:06:10"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 100.0
+    },
+    "time": "2025-10-22 14:13:53"
   },
   {
     "text": "Tôi yêu bạn",
     "language": "Vietnam",
     "confidence": 100.0,
-    "time": "2025-10-22 13:06:18"
-  },
-  {
-    "text": "Tôi yêu bạn",
-    "language": "Vietnam",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:06:19"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 100.0
+    },
+    "time": "2025-10-22 14:13:57"
   },
   {
     "text": "Bạn có khỏe không",
     "language": "Vietnam",
     "confidence": 100.0,
-    "time": "2025-10-22 13:06:23"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 100.0
+    },
+    "time": "2025-10-22 14:14:02"
   },
   {
     "text": "Bạn bao nhiêu tuổi",
     "language": "Vietnam",
     "confidence": 100.0,
-    "time": "2025-10-22 13:06:28"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 100.0
+    },
+    "time": "2025-10-22 14:14:06"
   },
   {
     "text": "我想出去走走",
     "language": "Chinese",
-    "confidence": 99.98,
-    "time": "2025-10-22 13:06:35"
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 100.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:14:11"
   },
   {
     "text": "我爱你",
     "language": "Chinese",
     "confidence": 100.0,
-    "time": "2025-10-22 13:06:41"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 100.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:14:15"
   },
   {
     "text": "你好吗",
     "language": "Chinese",
-    "confidence": 99.79,
-    "time": "2025-10-22 13:06:45"
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 100.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:14:20"
   },
   {
     "text": "你多大了",
     "language": "Chinese",
     "confidence": 100.0,
-    "time": "2025-10-22 13:06:50"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 100.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:14:24"
   },
   {
     "text": "I want to go out",
     "language": "English",
-    "confidence": 99.98,
-    "time": "2025-10-22 13:06:56"
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 100.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:14:29"
+  },
+  {
+    "text": "How are you",
+    "language": "English",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 100.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:14:33"
+  },
+  {
+    "text": "I love you",
+    "language": "English",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 100.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:14:38"
   },
   {
     "text": "How old are you",
     "language": "English",
     "confidence": 100.0,
-    "time": "2025-10-22 13:07:06"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 100.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:14:42"
+  },
+  {
+    "text": "Je veux sortir.",
+    "language": "French",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 100.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:14:50"
   },
   {
     "text": "Je t'aime.",
     "language": "French",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:07:12"
+    "confidence": 99.98,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 99.98,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.01,
+      "Hungary": 0.0,
+      "Romanian": 0.01,
+      "Slovak": 0.01,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:14:54"
+  },
+  {
+    "text": "Comment vas-tu ?",
+    "language": "French",
+    "confidence": 99.98,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 99.98,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.01,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:15:05"
   },
   {
     "text": "Quel âge as-tu ?",
     "language": "French",
-    "confidence": 99.99,
-    "time": "2025-10-22 13:07:17"
+    "confidence": 99.91,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 99.91,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.03,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.06,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:15:13"
   },
   {
     "text": "Ich möchte ausgehen.",
     "language": "German",
     "confidence": 100.0,
-    "time": "2025-10-22 13:07:22"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 100.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:15:22"
+  },
+  {
+    "text": "Ich liebe dich.",
+    "language": "German",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 100.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:15:27"
+  },
+  {
+    "text": "Wie geht es dir?",
+    "language": "German",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 100.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:15:31"
   },
   {
     "text": "Wie alt bist du?",
     "language": "German",
     "confidence": 100.0,
-    "time": "2025-10-22 13:07:26"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 100.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:15:35"
   },
   {
     "text": "出かけたいよ",
     "language": "Japanese",
     "confidence": 100.0,
-    "time": "2025-10-22 13:07:31"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 100.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:15:43"
   },
   {
-    "text": "元気？",
-    "language": "Korean",
-    "confidence": 77.19,
-    "time": "2025-10-22 13:07:37"
-  },
-  {
-    "text": "何歳？",
-    "language": "Korean",
-    "confidence": 77.19,
-    "time": "2025-10-22 13:07:43"
-  },
-  {
-    "text": "잘 지내?",
-    "language": "Korean",
-    "confidence": 77.19,
-    "time": "2025-10-22 13:07:50"
-  },
-  {
-    "text": "몇 살이야?",
-    "language": "Korean",
-    "confidence": 77.19,
-    "time": "2025-10-22 13:07:56"
-  },
-  {
-    "text": "나가고 싶어",
-    "language": "Korean",
+    "text": "愛してるよ",
+    "language": "Japanese",
     "confidence": 100.0,
-    "time": "2025-10-22 13:08:02"
-  },
-  {
-    "text": "Eu quero sair",
-    "language": "Portuguese",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:08:09"
-  },
-  {
-    "text": "Quantos anos tem?",
-    "language": "Portuguese",
-    "confidence": 97.59,
-    "time": "2025-10-22 13:08:13"
-  },
-  {
-    "text": "Eu amo-te",
-    "language": "Portuguese",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:08:18"
-  },
-  {
-    "text": "Я хочу выйти",
-    "language": "Russian",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:08:24"
-  },
-  {
-    "text": "Я люблю тебя",
-    "language": "Russian",
-    "confidence": 94.65,
-    "time": "2025-10-22 13:08:29"
-  },
-  {
-    "text": "Как дела",
-    "language": "Russian",
-    "confidence": 99.99,
-    "time": "2025-10-22 13:08:35"
-  },
-  {
-    "text": "Quiero salir",
-    "language": "Spanish",
-    "confidence": 99.99,
-    "time": "2025-10-22 13:08:40"
-  },
-  {
-    "text": "Te amo",
-    "language": "Spanish",
-    "confidence": 87.68,
-    "time": "2025-10-22 13:08:45"
-  },
-  {
-    "text": "¿Cómo estás?",
-    "language": "Spanish",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:08:49"
-  },
-  {
-    "text": "Te amo",
-    "language": "Spanish",
-    "confidence": 87.68,
-    "time": "2025-10-22 13:26:29"
-  },
-  {
-    "text": "Я хачу выйсці.",
-    "language": "Belarus",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:26:35"
-  },
-  {
-    "text": "Як справы?",
-    "language": "Belarus",
-    "confidence": 99.75,
-    "time": "2025-10-22 13:26:41"
-  },
-  {
-    "text": "Jeg vil gerne ud",
-    "language": "Denmark",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:26:48"
-  },
-  {
-    "text": "Hvor gammel er du",
-    "language": "Denmark",
-    "confidence": 99.89,
-    "time": "2025-10-22 13:26:53"
-  },
-  {
-    "text": "ເຈົ້າອາຍຸເທົ່າໃດ",
-    "language": "Laos",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:27:02"
-  },
-  {
-    "text": "saya nak keluar",
-    "language": "Malaysia",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:27:37"
-  },
-  {
-    "text": "apa khabar",
-    "language": "Malaysia",
-    "confidence": 53.14,
-    "time": "2025-10-22 13:27:43"
-  },
-  {
-    "text": "Berapa umur awak",
-    "language": "Malaysia",
-    "confidence": 98.55,
-    "time": "2025-10-22 13:27:51"
-  },
-  {
-    "text": "Би гармаар байна",
-    "language": "Mongolia",
-    "confidence": 99.99,
-    "time": "2025-10-22 13:27:56"
-  },
-  {
-    "text": "Сайн байна уу",
-    "language": "Belarus",
-    "confidence": 55.17,
-    "time": "2025-10-22 13:28:02"
-  },
-  {
-    "text": "Сайн байна уу",
-    "language": "Belarus",
-    "confidence": 55.17,
-    "time": "2025-10-22 13:28:08"
-  },
-  {
-    "text": "Та хэдэн настай вэ?",
-    "language": "Belarus",
-    "confidence": 72.26,
-    "time": "2025-10-22 13:28:13"
-  },
-  {
-    "text": "Би гармаар байна",
-    "language": "Mongolia",
-    "confidence": 99.99,
-    "time": "2025-10-22 13:28:18"
-  },
-  {
-    "text": "Би чамд хайртай",
-    "language": "Mongolia",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:28:24"
-  },
-  {
-    "text": "元気？     何歳？",
-    "language": "Korean",
-    "confidence": 77.19,
-    "time": "2025-10-22 13:28:36"
-  },
-  {
-    "text": "म बाहिर जान चाहन्छु",
-    "language": "Nepal",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:28:50"
-  },
-  {
-    "text": "तिमी कस्तो छौ",
-    "language": "Nepal",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:28:54"
-  },
-  {
-    "text": "Jag vill gå ut",
-    "language": "Swedish",
-    "confidence": 99.86,
-    "time": "2025-10-22 13:29:01"
-  },
-  {
-    "text": "Hur gammal är du?",
-    "language": "Swedish",
-    "confidence": 99.99,
-    "time": "2025-10-22 13:29:08"
-  },
-  {
-    "text": "Hur mår du?",
-    "language": "Swedish",
-    "confidence": 55.84,
-    "time": "2025-10-22 13:29:13"
-  },
-  {
-    "text": "Kako si",
-    "language": "Croatia",
-    "confidence": 99.82,
-    "time": "2025-10-22 13:29:18"
-  },
-  {
-    "text": "Volim te",
-    "language": "Croatia",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:29:22"
-  },
-  {
-    "text": "Koliko imaš godina",
-    "language": "Croatia",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:29:46"
-  },
-  {
-    "text": "Mwen vle soti",
-    "language": "Creole-Haiti",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:29:52"
-  },
-  {
-    "text": "Ki laj ou",
-    "language": "Creole-Haiti",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:29:56"
-  },
-  {
-    "text": "Ki jan ou ye",
-    "language": "Creole-Haiti",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:30:01"
-  },
-  {
-    "text": "Hány éves vagy?",
-    "language": "Hungary",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:30:06"
-  },
-  {
-    "text": "Hogy vagy?",
-    "language": "Hungary",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:30:11"
-  },
-  {
-    "text": "Afọ ole ka ịdị",
-    "language": "Igbo",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:30:16"
-  },
-  {
-    "text": "Kedu ka ị mere",
-    "language": "Igbo",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:30:20"
-  },
-  {
-    "text": "Achọrọ m ịpụ",
-    "language": "Igbo",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:30:25"
-  },
-  {
-    "text": "Чи хаанаас ирсэн бэ",
-    "language": "Russian",
-    "confidence": 50.91,
-    "time": "2025-10-22 13:48:28"
-  },
-  {
-    "text": "Би маш завгүй байна",
-    "language": "Mongolia",
-    "confidence": 100.0,
-    "time": "2025-10-22 13:48:58"
-  },
-  {
-    "text": "Би ажиллаж байна.",
-    "language": "Mongolia",
-    "confidence": 99.9,
-    "time": "2025-10-22 13:49:24"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 100.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:15:47"
   },
   {
     "text": "私は働いています。",
     "language": "Japanese",
     "confidence": 100.0,
-    "time": "2025-10-22 13:49:41"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 100.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:15:51"
   },
   {
     "text": "私は忙しいです",
     "language": "Japanese",
     "confidence": 100.0,
-    "time": "2025-10-22 13:50:02"
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 100.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:15:56"
+  },
+  {
+    "text": "나가고 싶어",
+    "language": "Korean",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 100.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:16:00"
+  },
+  {
+    "text": "사랑해",
+    "language": "Korean",
+    "confidence": 99.99,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 99.99,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:16:05"
+  },
+  {
+    "text": "잘 지내?",
+    "language": "Korean",
+    "confidence": 58.18,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 40.23,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.01,
+      "Japanese": 1.46,
+      "Korean": 58.18,
+      "Portuguese": 0.0,
+      "Russian": 0.04,
+      "Spanish": 0.0,
+      "Belarus": 0.02,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.02,
+      "Hungary": 0.03,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:16:16"
+  },
+  {
+    "text": "몇 살이야?",
+    "language": "Korean",
+    "confidence": 58.18,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 40.23,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.01,
+      "Japanese": 1.46,
+      "Korean": 58.18,
+      "Portuguese": 0.0,
+      "Russian": 0.04,
+      "Spanish": 0.0,
+      "Belarus": 0.02,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.02,
+      "Hungary": 0.03,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:16:24"
+  },
+  {
+    "text": "Eu quero sair",
+    "language": "Portuguese",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 100.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:16:36"
+  },
+  {
+    "text": "Eu amo-te",
+    "language": "Portuguese",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 100.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:16:41"
+  },
+  {
+    "text": "Como está?",
+    "language": "Portuguese",
+    "confidence": 99.97,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 99.97,
+      "Russian": 0.0,
+      "Spanish": 0.03,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:16:47"
+  },
+  {
+    "text": "Quantos anos tem?",
+    "language": "Portuguese",
+    "confidence": 99.98,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 99.98,
+      "Russian": 0.0,
+      "Spanish": 0.02,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:16:53"
+  },
+  {
+    "text": "Я хочу выйти",
+    "language": "Russian",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 100.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:16:58"
+  },
+  {
+    "text": "Я люблю тебя",
+    "language": "Russian",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 100.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:17:02"
+  },
+  {
+    "text": "Как дела",
+    "language": "Russian",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 100.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:17:09"
+  },
+  {
+    "text": "Сколько тебе лет?",
+    "language": "Russian",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 100.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:17:16"
+  },
+  {
+    "text": "Quiero salir",
+    "language": "Spanish",
+    "confidence": 99.96,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.01,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.02,
+      "Russian": 0.0,
+      "Spanish": 99.96,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:17:21"
+  },
+  {
+    "text": "Te amo",
+    "language": "Spanish",
+    "confidence": 65.66,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.06,
+      "French": 0.03,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 8.58,
+      "Russian": 0.0,
+      "Spanish": 65.66,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 6.99,
+      "Hungary": 0.0,
+      "Romanian": 18.62,
+      "Slovak": 0.06,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:17:28"
+  },
+  {
+    "text": "¿Cómo estás?",
+    "language": "Spanish",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 100.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:17:36"
+  },
+  {
+    "text": "¿Cuántos años tienes?",
+    "language": "Spanish",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 100.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:17:42"
+  },
+  {
+    "text": "Я хачу выйсці.",
+    "language": "Belarus",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 100.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:17:48"
+  },
+  {
+    "text": "Я цябе кахаю.",
+    "language": "Belarus",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 100.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:17:53"
+  },
+  {
+    "text": "Як справы?",
+    "language": "Belarus",
+    "confidence": 93.36,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 6.64,
+      "Spanish": 0.0,
+      "Belarus": 93.36,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:17:59"
+  },
+  {
+    "text": "Колькі табе гадоў?",
+    "language": "Belarus",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 100.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:18:05"
+  },
+  {
+    "text": "Jeg vil gerne ud",
+    "language": "Denmark",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 100.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:18:11"
+  },
+  {
+    "text": "Jeg elsker dig",
+    "language": "Denmark",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 100.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:18:16"
+  },
+  {
+    "text": "Hvordan har du det",
+    "language": "Denmark",
+    "confidence": 99.92,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 99.92,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.08,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:18:20"
+  },
+  {
+    "text": "Hvor gammel er du",
+    "language": "Denmark",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 100.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:18:25"
+  },
+  {
+    "text": "ຂ້ອຍຢາກອອກໄປ",
+    "language": "Laos",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 100.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:18:29"
+  },
+  {
+    "text": "ຂ້ອຍຮັກເຈົ້າ",
+    "language": "Laos",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 100.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:18:34"
+  },
+  {
+    "text": "ທ່ານສະບາຍດີ",
+    "language": "Laos",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 100.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:18:38"
+  },
+  {
+    "text": "ເຈົ້າອາຍຸເທົ່າໃດ",
+    "language": "Laos",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 100.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:18:43"
+  },
+  {
+    "text": "saya nak keluar",
+    "language": "Malaysia",
+    "confidence": 99.95,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 99.95,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.05,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:18:52"
+  },
+  {
+    "text": "saya sayang awak",
+    "language": "Malaysia",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 100.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:18:58"
+  },
+  {
+    "text": "apa khabar",
+    "language": "Malaysia",
+    "confidence": 38.43,
+    "all_confidences": {
+      "Arabic": 0.13,
+      "Chinese": 1.06,
+      "English": 10.02,
+      "French": 3.23,
+      "German": 0.64,
+      "Japanese": 0.05,
+      "Korean": 0.15,
+      "Portuguese": 0.94,
+      "Russian": 0.23,
+      "Spanish": 10.68,
+      "Belarus": 0.12,
+      "Denmark": 2.29,
+      "Laos": 0.13,
+      "Malaysia": 38.43,
+      "Nepal": 0.0,
+      "Swedish": 0.51,
+      "Croatia": 5.91,
+      "Hungary": 3.91,
+      "Romanian": 17.15,
+      "Slovak": 0.91,
+      "Vietnam": 3.52
+    },
+    "time": "2025-10-22 14:19:03"
+  },
+  {
+    "text": "Berapa umur awak",
+    "language": "Portuguese",
+    "confidence": 94.16,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.03,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 94.16,
+      "Russian": 0.0,
+      "Spanish": 0.05,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 3.79,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.04,
+      "Hungary": 0.0,
+      "Romanian": 1.93,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:19:16"
+  },
+  {
+    "text": "saya sibuk",
+    "language": "Malaysia",
+    "confidence": 98.23,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.01,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.01,
+      "Belarus": 0.0,
+      "Denmark": 0.01,
+      "Laos": 0.0,
+      "Malaysia": 98.23,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.22,
+      "Hungary": 1.18,
+      "Romanian": 0.04,
+      "Slovak": 0.3,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:19:47"
+  },
+  {
+    "text": "saya sedang bekerja",
+    "language": "Malaysia",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 100.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:20:13"
+  },
+  {
+    "text": "म बाहिर जान चाहन्छु",
+    "language": "Nepal",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 100.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:20:23"
+  },
+  {
+    "text": "तिमीलाई",
+    "language": "Nepal",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 100.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:20:28"
+  },
+  {
+    "text": "तिमी कस्तो छौ",
+    "language": "Nepal",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 100.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:20:32"
+  },
+  {
+    "text": "म तिमीलाई माया गर्छु",
+    "language": "Nepal",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 100.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:20:37"
+  },
+  {
+    "text": "तपाईं कति वर्षको हुनुहुन्छ?",
+    "language": "Nepal",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 100.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:20:41"
+  },
+  {
+    "text": "Jag vill gå ut",
+    "language": "Swedish",
+    "confidence": 99.97,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.03,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 99.97,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:20:49"
+  },
+  {
+    "text": "Jag älskar dig",
+    "language": "Swedish",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 100.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:20:57"
+  },
+  {
+    "text": "Hur gammal är du?",
+    "language": "Swedish",
+    "confidence": 97.09,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.01,
+      "French": 0.0,
+      "German": 2.81,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.09,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 97.09,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:21:01"
+  },
+  {
+    "text": "Hur mår du?",
+    "language": "Denmark",
+    "confidence": 99.56,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 99.56,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.44,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:21:08"
+  },
+  {
+    "text": "Jag jobbar",
+    "language": "Swedish",
+    "confidence": 99.38,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.01,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.01,
+      "Belarus": 0.0,
+      "Denmark": 0.24,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 99.38,
+      "Croatia": 0.04,
+      "Hungary": 0.32,
+      "Romanian": 0.0,
+      "Slovak": 0.01,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:21:26"
+  },
+  {
+    "text": "Hur gammal är du?",
+    "language": "Swedish",
+    "confidence": 97.09,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.01,
+      "French": 0.0,
+      "German": 2.81,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.09,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 97.09,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:21:37"
+  },
+  {
+    "text": "Želim izaći van",
+    "language": "Croatia",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 100.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:21:43"
+  },
+  {
+    "text": "Volim te",
+    "language": "Croatia",
+    "confidence": 99.91,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 99.91,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.09,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:21:48"
+  },
+  {
+    "text": "Kako si",
+    "language": "Croatia",
+    "confidence": 99.29,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 99.29,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.71,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:21:56"
+  },
+  {
+    "text": "Koliko imaš godina",
+    "language": "Croatia",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 100.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:22:03"
+  },
+  {
+    "text": "Ki akarok menni.",
+    "language": "Hungary",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 100.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:22:08"
+  },
+  {
+    "text": "Szeretlek",
+    "language": "Hungary",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 100.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:22:14"
+  },
+  {
+    "text": "Hogy vagy?",
+    "language": "Hungary",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 100.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:22:18"
+  },
+  {
+    "text": "Hány éves vagy?",
+    "language": "Hungary",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 100.0,
+      "Romanian": 0.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:22:27"
+  },
+  {
+    "text": "Vreau să ies afară",
+    "language": "Romanian",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 100.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:22:32"
+  },
+  {
+    "text": "Vreau să ies afară",
+    "language": "Romanian",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 100.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:22:32"
+  },
+  {
+    "text": "Te iubesc",
+    "language": "Romanian",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 100.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:22:36"
+  },
+  {
+    "text": "Ce mai faci",
+    "language": "Romanian",
+    "confidence": 99.92,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.08,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 99.92,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:22:41"
+  },
+  {
+    "text": "Câți ani ai",
+    "language": "Romanian",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 100.0,
+      "Slovak": 0.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:22:45"
+  },
+  {
+    "text": "Chcem ísť von",
+    "language": "Slovak",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 100.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:22:50"
+  },
+  {
+    "text": "Ľúbim ťa",
+    "language": "Slovak",
+    "confidence": 96.59,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.01,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 1.95,
+      "Russian": 0.0,
+      "Spanish": 0.56,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.23,
+      "Hungary": 0.0,
+      "Romanian": 0.65,
+      "Slovak": 96.59,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:22:55"
+  },
+  {
+    "text": "Ako sa máš",
+    "language": "Slovak",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 100.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:23:02"
+  },
+  {
+    "text": "Koľko máš rokov",
+    "language": "Slovak",
+    "confidence": 100.0,
+    "all_confidences": {
+      "Arabic": 0.0,
+      "Chinese": 0.0,
+      "English": 0.0,
+      "French": 0.0,
+      "German": 0.0,
+      "Japanese": 0.0,
+      "Korean": 0.0,
+      "Portuguese": 0.0,
+      "Russian": 0.0,
+      "Spanish": 0.0,
+      "Belarus": 0.0,
+      "Denmark": 0.0,
+      "Laos": 0.0,
+      "Malaysia": 0.0,
+      "Nepal": 0.0,
+      "Swedish": 0.0,
+      "Croatia": 0.0,
+      "Hungary": 0.0,
+      "Romanian": 0.0,
+      "Slovak": 100.0,
+      "Vietnam": 0.0
+    },
+    "time": "2025-10-22 14:23:06"
   }
 ]

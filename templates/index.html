@@ -83,7 +83,7 @@
       box-shadow: 0 0 6px rgba(0, 123, 255, 0.3);
     }
 
-    button {
+    #btn {
       margin-top: 20px;
       padding: 12px 25px;
       font-size: 16px;
@@ -97,7 +97,7 @@
       transition: all 0.3s ease;
     }
 
-    button:hover {
+    #btn:hover {
       background: linear-gradient(45deg, #0062cc, #0086cc);
       transform: scale(1.03);
     }
@@ -180,19 +180,45 @@
 
     <form method="POST">
       <input type="text" name="text" placeholder="Enter sentence " value="{{ word }}" required>
-      <button type="submit">🔍 Predict</button>
+      <button id="btn" type="submit">🔍 Predict</button>
     </form>
 
     {% if prediction %}
     <div class="result">
       <p>Language: <b>{{ prediction }}</b></p>
       <p>Reliability: <b>{{ "%.2f"|format(confidence) }}%</b></p>
+
+      <div id="other-predictions" style="display:none;">
+        <b>All Language Confidences:</b><br>
+        {% for lang, conf in all_confidences | dictsort(by='value', reverse=True) %}
+        {% if lang != prediction %}
+        {{ lang }}: {{ "%.2f"|format(conf) }}%<br>
+        {% endif %}
+        {% endfor %}
+      </div>
+
+      <button id="button" type="button">Show other predictions</button>
     </div>
     {% endif %}
+
+
   </div>
   <footer>
     <p>Powered by <a href="#">TensorFlow & Flask</a> | Design by <b>Group 29</b></p>
   </footer>
 </body>
+<script>
+  let btn = document.getElementById("button");
+  btn.addEventListener(("click"), () => {
+    if (btn.innerHTML === "Show other predictions") {
+      btn.innerHTML = "Hide other predictions"
+      document.getElementById("other-predictions").style.display = "block";
+
+    } else {
+      btn.innerHTML = "Show other predictions"
+      document.getElementById("other-predictions").style.display = "none";
+    }
+  })
+</script>
 
 </html>

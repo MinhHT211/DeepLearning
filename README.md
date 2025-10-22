@@ -87,15 +87,8 @@ Testing data
 ## Malaysia:
     saya nak keluar
     saya sayang awak
-    apa khabar
-    Berapa umur awak
-
-## Mongolia:
-    Би гармаар байна
-    Би чамд хайртай
-    Би маш завгүй байна
-    Би ажиллаж байна.
-    
+    saya sedang bekerja
+    saya sibuk
 
 ## Nepal:
     म बाहिर जान चाहन्छु
@@ -106,7 +99,7 @@ Testing data
 ## Swedish:
     Jag vill gå ut
     Jag älskar dig
-    Hur mår du?
+    Jag jobbar
     Hur gammal är du?
 
 ## Croatia:
@@ -115,16 +108,20 @@ Testing data
     Kako si
     Koliko imaš godina
 
-## Creole-Haiti:
-    Mwen vle soti
-    Mwen renmen ou
-    Ki jan ou ye
-    Ki laj ou
-
 ## Hungary:
     Ki akarok menni.
     Szeretlek.
     Hogy vagy?
     Hány éves vagy?
 
-    
+## Roanian:
+    Vreau să ies afară
+    Te iubesc
+    Ce mai faci
+    Câți ani ai
+
+## Slovak:
+    Chcem ísť von
+    Ľúbim ťa
+    Ako sa máš
+    Koľko máš rokov

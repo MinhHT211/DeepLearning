@@ -18,11 +18,12 @@ LANGUAGES = [
     "Denmark",
     "Laos",
     "Malaysia",
-    "Mongolia",
     "Nepal",
     "Swedish",
     "Croatia",
     "Hungary",
+    "Romanian",
+    "Slovak",
     "Vietnam"
 ]
 

@@ -42,16 +42,21 @@ def index():
 
             if len(seq.shape) == 2:
                 seq = np.expand_dims(seq, axis=0)
+            
+            # preds: shape (n_lang,)
+            preds = model.predict(seq, verbose=0)[0]
 
-            preds = model.predict(seq)
+            # preds = model.predict(seq)
             lang_index = np.argmax(preds)
             confidence = float(np.max(preds)) * 100
             prediction = LANGUAGES[lang_index]
+            all_confidences = {LANGUAGES[i]: round(float(preds[i]) * 100, 2) for i in range(len(LANGUAGES))}
 
             record = {
                 "text": word,
                 "language": prediction,
                 "confidence": round(confidence, 2),
+                "all_confidences": all_confidences,
                 "time": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             }
             save_history(record)
@@ -62,6 +67,7 @@ def index():
         prediction=prediction,
         confidence=confidence,
         word=word,  # Pass the word back to HTML
+        all_confidences=all_confidences if word else None
     )
 
 
@@ -72,7 +78,7 @@ def show_history():
     with open(HistoryFile, encoding="utf-8") as f:
         history = json.load(f)
 
-    history = list(reversed(history[-100:]))
+    history = list(reversed(history[-200:]))
     return render_template("history.html", history=history)
 
 

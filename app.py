@@ -81,6 +81,5 @@ def show_history():
     history = list(reversed(history[-200:]))
     return render_template("history.html", history=history)
 
-
 if __name__ == "__main__":
     app.run(debug=True)

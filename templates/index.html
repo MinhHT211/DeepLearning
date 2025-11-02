@@ -4,22 +4,13 @@
 <head>
   <meta charset="UTF-8">
   <title>Language Detection - CNN Demo</title>
-  <!-- <style>
-    body { font-family: Arial; text-align: center; padding: 50px; background: #f0f2f5; }
-    form { margin-top: 20px; }
-    input[type=text] { width: 400px; padding: 10px; font-size: 16px; }
-    button { padding: 10px 20px; background: #007bff; color: white; border: none; border-radius: 6px; cursor: pointer; }
-    button:hover { background: #0056b3; }
-    .result { margin-top: 30px; font-size: 20px; }
-  </style> -->
+
   <style>
     body {
       font-family: 'Segoe UI', Arial, sans-serif;
       background: url("{{ url_for('static', filename='img/background-lang.jpg') }}") no-repeat center center fixed;
       background-size: cover;
       background-attachment: fixed;
-
-
       margin: 0;
       padding: 0;
       display: flex;
@@ -30,8 +21,6 @@
       color: #333;
     }
 
-
-    /* Main frame */
     .container {
       background: rgba(255, 255, 255, 0.95);
       padding: 40px 50px;
@@ -51,12 +40,10 @@
       border-color: #81D4FA;
     }
 
-    /* Title */
     h1 {
       font-size: 28px;
       color: #0056b3;
       margin-bottom: 15px;
-      letter-spacing: 0.5px;
     }
 
     p.subtitle {
@@ -65,7 +52,6 @@
       margin-bottom: 30px;
     }
 
-    /* buttons and input*/
     input[type=text] {
       width: 100%;
       padding: 12px 15px;
@@ -83,26 +69,31 @@
       box-shadow: 0 0 6px rgba(0, 123, 255, 0.3);
     }
 
-    #btn {
+    #btn, .history-btn {
       margin-top: 20px;
       padding: 12px 25px;
       font-size: 16px;
       background: linear-gradient(45deg, #007bff, #00a8ff);
       color: #fff;
-      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
       border: none;
       border-radius: 8px;
       cursor: pointer;
       font-weight: 500;
       transition: all 0.3s ease;
+      display: inline-block;
     }
 
-    #btn:hover {
+    #btn:hover, .history-btn:hover {
       background: linear-gradient(45deg, #0062cc, #0086cc);
       transform: scale(1.03);
     }
 
-    /*results displayed */
+    .history-btn {
+      margin-top: 10px;
+      text-decoration: none;
+      display: block;
+    }
+
     .result {
       margin-top: 30px;
       font-size: 18px;
@@ -114,11 +105,6 @@
       animation: fadeIn 0.8s ease-in-out;
     }
 
-    .result b {
-      color: #0056b3;
-    }
-
-    /* Appearance Effect */
     @keyframes fadeIn {
       from {
         opacity: 0;
@@ -143,35 +129,11 @@
       border-radius: 12px;
       box-shadow: 0 -4px 15px rgba(0, 0, 0, 0.1);
       text-align: center;
+      width: 300px;
     }
 
-    footer a {
-      color: #007bff;
-      font-weight: 600;
-      text-decoration: none;
-      transition: 0.3s;
-    }
-
-    footer a:hover {
-      color: #0056b3;
-      text-decoration: underline;
-    }
   </style>
 </head>
-<!-- <body>
-  <h1>🌐 CNN Language Detection</h1>
-  <form method="POST">
-    <input type="text" name="text" placeholder="Enter the sentence to be recognized..." required>
-    <button type="submit">Predict</button>
-  </form>
-
-  {% if prediction %}
-  <div class="result">
-    Language: <b>{{ prediction }}</b><br>
-    Reliability: <b>{{ "%.2f"|format(confidence) }}%</b>
-  </div>
-  {% endif %}
-</body> -->
 
 <body>
   <div class="container">
@@ -179,46 +141,50 @@
     <p class="subtitle">Enter the sentence to be recognized...</p>
 
     <form method="POST">
-      <input type="text" name="text" placeholder="Enter sentence " value="{{ word }}" required>
+      <input type="text" name="text" placeholder="Enter sentence..." value="{{ word }}" required>
       <button id="btn" type="submit">🔍 Predict</button>
     </form>
+
+    <a href="/history" class="history-btn">View Search History</a>
 
     {% if prediction %}
     <div class="result">
       <p>Language: <b>{{ prediction }}</b></p>
       <p>Reliability: <b>{{ "%.2f"|format(confidence) }}%</b></p>
 
-      <div id="other-predictions" style="display:none;">
-        <b>All Language Confidences:</b><br>
+      <button id="toggle-btn" type="button">Show other predictions</button>
+
+      <div id="other-predictions" style="display:none; margin-top: 15px;">
+        <b>All Language Confidences:</b><br><br>
         {% for lang, conf in all_confidences | dictsort(by='value', reverse=True) %}
         {% if lang != prediction %}
         {{ lang }}: {{ "%.2f"|format(conf) }}%<br>
         {% endif %}
         {% endfor %}
       </div>
-
-      <button id="button" type="button">Show other predictions</button>
     </div>
     {% endif %}
-
-
   </div>
+
   <footer>
-    <p>Powered by <a href="#">TensorFlow & Flask</a> | Design by <b>Group 29</b></p>
+    Powered by TensorFlow & Flask — Group 29
   </footer>
-</body>
-<script>
-  let btn = document.getElementById("button");
-  btn.addEventListener(("click"), () => {
-    if (btn.innerHTML === "Show other predictions") {
-      btn.innerHTML = "Hide other predictions"
-      document.getElementById("other-predictions").style.display = "block";
 
-    } else {
-      btn.innerHTML = "Show other predictions"
-      document.getElementById("other-predictions").style.display = "none";
+  <script>
+    let btn = document.getElementById("toggle-btn");
+    if (btn) {
+      btn.addEventListener("click", () => {
+        let box = document.getElementById("other-predictions");
+        if (box.style.display === "none") {
+          box.style.display = "block";
+          btn.innerText = "Hide other predictions";
+        } else {
+          box.style.display = "none";
+          btn.innerText = "Show other predictions";
+        }
+      });
     }
-  })
-</script>
+  </script>
 
+</body>
 </html>

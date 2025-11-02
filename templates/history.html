@@ -1,69 +1,75 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <title>📜 Prediction History</title>
-    <style>
-        body {
-            font-family: system-ui, Arial, sans-serif;
-            max-width: 900px;
-            margin: 40px auto;
-            padding: 0 16px;
-        }
-
-        h1 {
-            text-align: center;
-            margin-bottom: 24px;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-
-        th,
-        td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
-
-        th {
-            background-color: #f7f7f7;
-        }
-
-        tr:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Search History</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #f8f9fa;
+      padding: 30px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: white;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    th, td {
+      padding: 12px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+    th {
+      background: #007bff;
+      color: white;
+      text-transform: uppercase;
+      font-size: 14px;
+    }
+    tr:hover {
+      background: #f1f1f1;
+    }
+    .back-btn {
+      margin-bottom: 15px;
+      display: inline-block;
+      padding: 8px 14px;
+      background: #007bff;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+    }
+  </style>
 </head>
 
 <body>
-    <h1>Prediction History</h1>
 
-    {% if history %}
-    <table>
-        <tr>
-            <th></th>
-            <th>Time</th>
-            <th>Language</th>
-            <th>Confidence</th>
-            <th>Text</th>
-        </tr>
-        {% for h in history %}
-        <tr>
-            <td>{{ loop.index }}</td>
-            <td>{{ h.time }}</td>
-            <td><b>{{ h.language }}</b></td>
-            <td>{{ "%.2f"|format(h.confidence) }}%</td>
-            <td>{{ h.text }}</td>
-        </tr>
-        {% endfor %}
-    </table>
-    {% else %}
-    <p><i>No history yet.</i></p>
-    {% endif %}
+<a href="/" class="back-btn">Back</a>
+
+<h2>Search History</h2>
+
+{% if history %}
+<table>
+  <tr>
+    <th>Text</th>
+    <th>Predicted Language</th>
+    <th>Confidence</th>
+    <th>Time</th>
+  </tr>
+
+  {% for item in history %}
+  <tr>
+    <td>{{ item.text }}</td>
+    <td>{{ item.language }}</td>
+    <td>{{ item.confidence }}%</td>
+    <td>{{ item.time }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+{% else %}
+<p>No history yet!</p>
+{% endif %}
+
 </body>
-
 </html>

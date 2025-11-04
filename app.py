@@ -9,6 +9,7 @@ app = Flask(__name__)
 # Load trained model
 model = load_model("cnn_language_model.h5")
 
+# JSON file path used to save history
 HistoryFile = "artifacts/history.json"
 
 

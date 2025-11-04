@@ -3,6 +3,7 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.utils import to_categorical
 
+# list of file names (without .txt extension)
 LANGUAGES = [
     "Arabic",
     "Chinese",
@@ -27,7 +28,9 @@ LANGUAGES = [
     "Vietnam"
 ]
 
-MAX_LEN = 15
+MAX_LEN = 15 # max number of characters in a word
+
+# all characters that we care about
 CHARS = (
     "abcdefghijklmnopqrstuvwxyz"
     "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
@@ -73,9 +76,14 @@ CHARS = (
     "áéíóúüñÁÉÍÓÚÜÑ"
 
 )
+
+# create a mapping from character to index
 CHAR_DICT = {c: i for i, c in enumerate(CHARS)}
+
+# number of output classes
 NUM_CLASSES = len(LANGUAGES)
 
+# function to convert a word into a one-hot matrix
 def encode_word(word):
     word = word.lower()[:MAX_LEN]
     x = np.zeros((MAX_LEN, len(CHARS)))
@@ -84,6 +92,8 @@ def encode_word(word):
             x[i, CHAR_DICT[ch]] = 1
     return x
 
+
+# function to load data from files and split into train and test sets
 def load_data(data_folder="data"):
     X, y = [], []
     for idx, lang in enumerate(LANGUAGES):
@@ -97,8 +107,8 @@ def load_data(data_folder="data"):
     y = to_categorical(y, NUM_CLASSES)
     return train_test_split(X, y, test_size=0.15, random_state=42)
 
+# Function to convert an input sequence into a one-hot matrix (like when training)
 def text_to_sequence(text):
-    # Function to convert an input sequence into a one-hot matrix (like when training)
     text = text.lower()[:MAX_LEN]
     x = np.zeros((MAX_LEN, len(CHARS)))
     for i, ch in enumerate(text):
